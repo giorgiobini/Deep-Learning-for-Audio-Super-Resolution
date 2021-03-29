@@ -1,0 +1,134 @@
+
+\documentclass[a4paper,12pt]{book}
+\usepackage[labelfont = bf]{caption}
+\usepackage{subcaption}
+\usepackage{adjustbox}
+\usepackage{interval}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{hyperref}
+%\usepackage{subfigure}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{mathrsfs}
+\usepackage{booktabs}
+\usepackage{setspace}
+\usepackage[paper=a4paper,left=2.5cm, right=2.5cm, top=1.5cm, bottom =2cm]{geometry}
+\usepackage{fancyhdr}
+\usepackage{geometry}
+\pagestyle{fancy}
+\usepackage{amsmath}
+\usepackage{setspace}
+\renewcommand{\baselinestretch}{1.5} 
+\usepackage{blindtext}
+
+\usepackage{unicode-math}
+\newcommand\widebar[1]{\mathop{\overline{#1}}}
+
+
+\usepackage[nopostdot,toc,acronym,nomain,nonumberlist]{glossaries}
+\makeglossaries
+\setacronymstyle{long-short}
+\loadglsentries[acronym]{myglossaries}
+
+\usepackage[sorting=ynt, backend=bibtex]{biblatex}
+\addbibresource{references.bib}
+\fancyhf{}
+\renewcommand{\chaptermark}[1]{\markboth{\chaptername\ \thechapter.\ #1}{}} % modifica l'intestazione con il nome/numero del capitolo
+\renewcommand{\sectionmark}[1]{\markright{\thesection.\ #1}} % modifica l'intestazione con il nome/numero dela sezione
+\fancyhead[LO]{\scshape\nouppercase{\rightmark}} 
+\fancyhead[RE]{\scshape\nouppercase{\leftmark}}
+\fancyfoot[LE, RO] {\thepage} 
+%le prox 4 righe servono per levare header nelle pagine intenzionalmente bianche
+\makeatletter
+\def\cleardoublepage{\clearpage\if@twoside \ifodd\c@page\else
+	\hbox{}\thispagestyle{empty}\newpage\if@twocolumn\hbox{}\newpage\fi\fi\fi}
+\makeatother
+
+\begin{document}
+	
+	\begin{titlepage}
+		
+		\noindent
+		\begin{minipage}[t]{0.19\textwidth}
+			\vspace{-4mm}{\includegraphics[scale=1.15]{img/logo_unimib.pdf}}
+		\end{minipage}
+		\begin{minipage}[t]{0.81\textwidth}
+			{
+				\setstretch{1.42}
+				{\textsc{Università degli Studi di Milano - Bicocca}} \\
+				\textbf{Scuola di Scienze} \\
+				\textbf{Dipartimento di Informatica, Sistemistica e Comunicazione} \\
+				\textbf{Corso di laurea magistrale in Data Science} \\
+				\par
+			}
+		\end{minipage}
+		
+		\vspace{40mm}
+		
+		\begin{center}
+			{\LARGE{
+					\setstretch{1.0}
+					\textbf{Deep Learning for Audio Super Resolution}
+					\par
+			}}
+		\end{center}
+		
+		\vspace{50mm}
+		
+		\noindent
+		{\large \textbf{Relatore:} Prof. Simone Bianco} \\
+		\setstretch{1.2}
+		\noindent
+		{\large \textbf{Correlatore:} Dott. Marco Buzzelli}
+		
+		\vspace{15mm}
+		
+		\begin{flushright}
+			{\large \textbf{Relazione della prova finale di:}} \\
+			\large{Giorgio Bini} \\
+			\large{Matricola 838674} 
+		\end{flushright}
+		
+		\vspace{40mm}
+		\begin{center}
+			{\large{\bf Anno Accademico 2019-2020}}
+		\end{center}
+		
+		\restoregeometry
+		
+	\end{titlepage}
+	
+\chapter*{Abstract} %l'asterisco vuol dire che non deve inserire nella table of contence l'Abstract
+Audio Super-Resolution is the problem of predicting the missing high-frequency content of a given signal from its low frequencies. Several recent studies have shown that Deep Learning algorithms are able to achieve remarkable results by modeling audio Super-Resolution as a regression task. A large variety of approaches have been proposed in literature, including convolutional and recurrent architectures to capture both local and long-term dependencies between audio frames. Furthermore, some research show that significant improvements may be achieved by processing the input signal not only in the time, but also in the frequency domain by exploiting the Fourier transform operations as an integral part of the neural network configuration. This thesis project aims not only to deal with the study of these approaches, but also to combine them in a principled way in order to explore a novel model architecture. 
+
+\printglossary[title={List of Abbreviations},type=acronym,style=long]
+
+\listoffigures
+
+\listoftables
+
+%\chapter*{Acknowledgements}
+
+\tableofcontents
+
+\chapter{Introduction} \label{chap:intro}
+\input{chapters/introduction} %read tex file from chapters folder 
+
+\chapter{Preliminary Concepts of Signal Processing and Deep Learning} \label{chap:theory}
+\input{chapters/chapter2} %read tex file from chapters folder 
+
+\chapter{Methods for Artificial Bandwidth Extension} \label{chap:methods}
+\input{chapters/chapter3} %read tex file from chapters folder 
+
+\chapter{Experimental Results} \label{chap:exp_results}
+\input{chapters/chapter4} %read tex file from chapters folder 
+
+\chapter{Conclusions and Further Work} \label{chap:conclusions}
+\input{chapters/chapter5} %read tex file from chapters folder 
+
+\printbibliography %alla fine di tutti i capitoli stampa la bibliografia
+\end{document}
+

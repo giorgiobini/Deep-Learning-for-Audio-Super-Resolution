@@ -1,0 +1,90 @@
+\section{Dataset gathering}
+In Machine Learning and Deep Learning the most important aspect is the dataset available for training the algorithms. Mainly, there are three fundamental aspects: representativeness (important for the inference phase), quality (garbage in garbage out), and sample size. For the sarcasm and irony detection task, the availability of datasets reflecting these three properties is very limited. Both because it is not easy to identify, in an automated way, documents with rhetorical figures (especially on Twitter and other social networks), the interpretation of what is sarcastic or ironic is very subjective and they occur infrequently. The models that are state of the art for the irony and sarcasm detection task are very often based on small dataset sizes, also because of the reasons listed above. The commitment to identify multiple sources of quality data was the basis for the thesis. To answer the question, it is possible to produce models that can perform better with even more data available. To answer this question, several datasets have been collected to solve the problem of identifying rhetorical figures, such as irony and sarcasm. Due to the limitations imposed by Twitter, the data collection was carried out through the use of the id of each tweet made available by the authors of the different studies. However, this implies strong limitations due to the tweets or accounts deleted on the social network, so it was not possible to collect all the user posts used for this research. 
+
+\subsection{Training set}
+The first step of this study concerned dataset gathering for both tasks related to English tweets. One one hand, for sarcasm detection, three different source were used for building the training set: the first source is based on \cite{Ptacek} studies, and it is composed by 14.070 sarcasm and 16.718 not sarcasm tweets (they were collected with distance labelling technique with the hashtag \#sarcasm \#not). The second source is referred to \cite{bma} research on using ensemble methods for addressing these tasks: a total number of 8000 tweets were collected of which 4000 sarcasm and 4000 not sarcasm. Also in this case, the tweets were gathered using distance labelling and after it, three researchers reviewed the data manually. "The inter-agreement between annotators has been computed according to the Fleiss’ kappa statistics, which measures
+the reliability agreement of labeling over that which would be
+expected by chance. In our case, the inter-agreement statistics $\kappa$ = 0.79 indicates a substantial agreement among annotators" \cite{bma}. Lastly, \cite{ghosh} training set was selected. The dataset is composed by 21292 not sarcams and 18488 sarcasm tweets. 
+
+One the other hand, for irony detection, two main sources were identified for the training phase: the first one is referred to SemEval-2018 Task 3: Irony Detection in English Tweets \cite{semeval}, specifically task 3A, where the task was to detect if a tweet is irony or not. The training set with raw text was chosen with 2000 not irony and 2000 irony observations. The second source is based on Reyes-Rosso studies \cite{reyes} for defining a benchmark dataset. It is composed of 10,000 with irony label, and 30,000 as non-ironic divided by different topics: Politics, Humour, and Education.
+
+\begin{table}[H]
+	\centering
+	\begin{tabular}{|c|c|c|c|}
+		\hline
+		& \textbf{Positive Label} & \textbf{Negative Label} & \textbf{Total} \\ \hline
+		\textbf{Sarcasm} & 36557                   & 42010                   & 78567          \\ \hline
+		\textbf{Irony}   & 11899                   & 31900                   & 43799          \\ \hline
+	\end{tabular}
+	\caption{Training set used for this study}
+	\label{tab: trainingset}
+\end{table}
+
+\subsection{Test set}
+In order to produce conclusions regarding the performance of the implemented models, several test sets were chosen as benchmarks for these tasks. As far as sarcasm is concerned, two different test sets were selected. The first refers to the test set of \cite{ghosh}, with a size of 1975 observations (975 labelled as non-sarcastic and 1000 labelled as sarcastic). While the second one was chosen to understand the actual inference power of the various models being formed by the whole training and test set of the \cite{riloff} study, with a total number of tweets equal to 1956 (1648 labelled as non-sarcastic and 308 as sarcastic).
+
+Concerning the irony task, due to the strong limitations of the available data, the test set of \cite{semeval} task 3 A was chosen, with a total of 784 tweets, of which 473 as non-ironic and 311 as ironic. 
+
+\section{Tweets length}
+In Natural Language Processing an important aspect is the length of a document. The length of a sentence is determined by the number of words within the document. The vector's dimension, that represent the sentence, may differ depending on the type of text representation chosen. In the next section different text depiction will be described. 
+There are pros and cons: In the case of natural language generation, if an algorithm is trained on very long documents it is able to detect even more granular patterns. This also applies to the text classification task. The more information the pattern has, the more precise it becomes. However, this has strong computational limitations, such as the generation of very large and in most cases, very scattered word matrices (this depends on what kind of representation is used). In addition to the computational limit, there is a bottleneck in the identification of dependencies between the beginning of a document and its end. In the following chapters, architectures such as recursive neural networks, capable of identifying such dependencies but with the problem of the vanishing gradient, will be explored in depth. 
+However, thanks to the limit imposed by Twitter for the number of characters within tweets, this limit can be exceeded. 
+\begin{table}[h]
+	\centering
+	\begin{tabular}{|c|c|c|}
+		\hline
+		& \textbf{Sarcasm} & \textbf{Irony} \\ \hline
+		\textbf{min}  & 1                & 1              \\ \hline
+		\textbf{max}  & 58               & 60             \\ \hline
+		\textbf{mean} & 16.07            & 15.47          \\ \hline
+		\textbf{std}  & 6.04             & 5.56           \\ \hline
+		\textbf{25\%} & 12               & 11             \\ \hline
+		\textbf{50\%} & 15               & 15             \\ \hline
+		\textbf{75\%} & 20               & 19             \\ \hline
+	\end{tabular}
+	\caption{Tweets summary statistics in terms of token count (training set)}
+	\label{tab:tweetstats}
+\end{table}
+In table \ref{tab:tweetstats} is shown the summary statistics of tweets length divided by sarcasm and irony. They are useful when either word embedding or sequence techniques are used for classification task. For example, when embeddings are generated it is mandatory to set a maximum for the token length. More details will be show in the next sections. The statistics within sarcasm and irony are pretty much the same. This is important for setting up the study pipeline; depending on which algorithm is chosen, this statistics are used for determining the model architecture.  
+
+\newpage\noindent In figure \ref{fig:tokendistrib}, the two distributions of the length of each tweet in the training set used for irony and sarcasm detection are shown.  
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.8\textwidth]{img/distribution_word_length}
+	\caption{Irony vs Sarcasm tweets length distribution, training set}\label{fig:tokendistrib}
+\end{figure}
+
+\noindent The threshold showed in figure \ref{fig:tokendistrib} is referred to the third quantile of the distribution. This means that all the tweets will have the same length: if the length is less then 20, a zero padding techniques is applied, otherwise the tweet will be truncated at 20 tokens.
+
+\newpage\section{Text Representation: Features Extraction}
+In Natural Language processing there is an important pipeline to follow in order to get right information from the text: 
+ \begin{figure}[H]
+ 	\centering
+ 	\includegraphics[width=0.9\textwidth]{img/pipeline_nlp.png}
+ 	\caption{Preprocessing steps for NLP input, source \cite{pipelineNLP}}\label{fig:nlpipeline}
+ \end{figure}
+
+Preprocessing phase is the most critical part, it differs depending on the type of task to be performed. The first step] is to remove noise, : stopwords (sometimes are useful): are those commonly used words that do not bring any useful information to the text. Typical examples of stop words are conjunctions, adverbs, prepositions, pronouns, commonly used verbs. 
+Lemmatization: it is the process that reduces words from their flexed form to their canonical form, called lemma. Stemming: what stemming does is to remove the ending of a word leaving only the root, it is a simple process that consists of truncating the final part of the word according to a set of rules. The purpose of stemming and lemmatisation is the same: trying to reduce the size of the vocabulary. However, lemmatisation is a more sophisticated technique that leads to better results, even if it is more expensive on a computational level. Other steps can be lower case normalization, extend words contractions, punctuation and emoji removal. In the case of tweets, mentions and hashtags are usually eliminated. 
+
+Once the corpus is clean, after the tokenisation process, there are several ways to represent it in numerical form, usually vectors or matrices, which allow to make 'measurements' from textual data. The most common model for representing text is the Bag of Words (BOW): vector representation does not consider the ordering in words. There are different ways to identify a BOW model: 
+
+\begin{itemize}
+	\item Binary term-document incidence matrix: Each document can be represented by a set of terms or by a binary vector {0,1}. This means 1 the term is present 0 the term is missing. There is a limit: the frequency of each term is lost. So, in this case a document is represented by a vector of 0 and 1.
+	\item Term-document count matrices: Consider the number of occurrences of a term in a document: each document is a count vector in N.
+\end{itemize}
+
+This type of representations produce sparse matrix form. This is just a wast of memory and it is computationally expensive, especially if there is a big collection of documents. An other limitation is that the positional information of terms are lost. There are different ways to obtain the relations within words, such us n-grams (a contiguous sequence of N tokens from a given piece of text). 
+There are several ways to circumscribe the problem of the sparsity within matrices, these type of representations can be seen as a more advanced way to represent text through a BOW model: 
+\begin{itemize}
+	\item Term Frequency - Inverse Document Frequency (tf-idf): the general idea comes from Luhn's Analysis (1958). Luhn noted that 'the frequency with which some words appear in a text provides an important indication of the significance of words'. Starting from this concept, jointly together with the Zipf's curve, that describes the discriminating power of significant words, the idea is to use a weighting schema based on the frequency terms. Tf-idf weighting of a term is the product of it's term frequency weight and it's inverse document frequency weight:
+	\begin{equation}
+		w_{t,d}= \frac{tf_{t,d}}{max_{ti}tf_{ti,d}}\times\log_{10}(\frac{N}{df_t})
+		\label{eq:tfidf}
+	\end{equation}
+	The values obtained by this weighting schema are replaced within the matrix in order to reduce the sparsity and to gain more information on each word. 
+\end{itemize}
+embeddings
+
+\section{From the Basis of Deep Learning to Transformers Architecture}

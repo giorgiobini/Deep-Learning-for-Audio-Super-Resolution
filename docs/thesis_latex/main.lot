@@ -1,0 +1,21 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {2.1}{\ignorespaces Numerical illustration of quantization with one significant digit using rounding. From \cite {proakis2006dimitris}.\relax }}{28}{table.caption.11}%
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {4.1}{\ignorespaces Data partition details for both \textit {Single-Speaker} and \textit {Multi-Speaker} tasks.\relax }}{73}{table.caption.41}%
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {4.2}{\ignorespaces Evaluation of \gls {bwe} methods (in \gls {db}) on the Single-Speaker task over the training set in terms of \gls {snr} and \gls {lsd}. A higher \gls {snr} is better and a lower \gls {lsd} is better.\relax }}{78}{table.caption.46}%
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {4.3}{\ignorespaces Evaluation of \gls {bwe} methods (in \gls {db}) on the Multi-Speaker task over the training set in terms of \gls {snr} and \gls {lsd}. A higher \gls {snr} is better and a lower \gls {lsd} is better.\relax }}{78}{table.caption.47}%
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {4.4}{\ignorespaces Evaluation of \gls {bwe} methods (in \gls {db}) on the Multi-Speaker task over the validation set in terms of \gls {snr} and \gls {lsd}. A higher \gls {snr} is better and a lower \gls {lsd} is better.\relax }}{78}{table.caption.48}%
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }

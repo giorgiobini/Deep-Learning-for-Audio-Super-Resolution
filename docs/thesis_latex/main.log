@@ -1,0 +1,1746 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.29)  15 MAR 2021 19:59
+entering extended mode
+**./main.tex
+(main.tex
+LaTeX2e <2020-10-01> patch level 2
+L3 programming layer <2020-10-27> xparse <2020-03-03>
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
+Document Class: book 2020/04/10 v1.4m Standard LaTeX document class
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/base\bk12.clo
+File: bk12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count175
+\c@chapter=\count176
+\c@section=\count177
+\c@subsection=\count178
+\c@subsubsection=\count179
+\c@paragraph=\count180
+\c@subparagraph=\count181
+\c@figure=\count182
+\c@table=\count183
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+\captionmargin=\dimen139
+\captionmargin@=\dimen140
+\captionwidth=\dimen141
+\caption@tempdima=\dimen142
+\caption@indent=\dimen143
+\caption@parindent=\dimen144
+\caption@hangindent=\dimen145
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count184
+\c@continuedfloat=\count185
+)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+\c@subfigure=\count186
+\c@subtable=\count187
+)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
+Package: adjustbox 2020/08/19 v1.3 Adjusting TeX boxes (trim, clip, ...)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks16
+\XKV@tempa@toks=\toks17
+)
+\XKV@depth=\count188
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen146
+\Gin@req@width=\dimen147
+)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.s
+ty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box47
+)
+\tc@llx=\dimen148
+\tc@lly=\dimen149
+\tc@urx=\dimen150
+\tc@ury=\dimen151
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen152
+\adjbox@Height=\dimen153
+\adjbox@Depth=\dimen154
+\adjbox@Totalheight=\dimen155
+\adjbox@pwidth=\dimen156
+\adjbox@pheight=\dimen157
+\adjbox@pdepth=\dimen158
+\adjbox@ptotalheight=\dimen159
+
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count189
+) (C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box48
+\sift@deathcycles=\count190
+\@vwid@loff=\dimen160
+\@vwid@roff=\dimen161
+))
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/interval\interval.sty
+Package: interval 2019/03/06 v0.4
+
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
+ty
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex
+\pgfkeys@pathtoks=\toks18
+\pgfkeys@temptoks=\toks19
+
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+filtered.code.tex
+\pgfkeys@tmptoks=\toks20
+))))
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count191
+\float@exts=\toks21
+\float@box=\box49
+\@float@everytoks=\toks22
+\@floatcapt=\box50
+)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks23
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
+
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.s
+ty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
+.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen162
+\Hy@linkcounter=\count192
+\Hy@pagecounter=\count193
+ (C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count194
+Package hyperref Info: Hyper figures OFF on input line 4464.
+Package hyperref Info: Link nesting OFF on input line 4469.
+Package hyperref Info: Hyper index ON on input line 4472.
+Package hyperref Info: Plain pages OFF on input line 4479.
+Package hyperref Info: Backreferencing OFF on input line 4484.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4717.
+\c@Hy@tempcnt=\count195
+ (C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5076.
+\XeTeXLinkMargin=\dimen163
+
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count196
+\Field@Width=\dimen164
+\Fld@charsize=\dimen165
+Package hyperref Info: Hyper figures OFF on input line 6347.
+Package hyperref Info: Link nesting OFF on input line 6352.
+Package hyperref Info: Hyper index ON on input line 6355.
+Package hyperref Info: backreferencing OFF on input line 6362.
+Package hyperref Info: Link coloring OFF on input line 6367.
+Package hyperref Info: Link coloring with OCG OFF on input line 6372.
+Package hyperref Info: PDF/A mode OFF on input line 6377.
+LaTeX Info: Redefining \ref on input line 6417.
+LaTeX Info: Redefining \pageref on input line 6421.
+
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
+)
+\Hy@abspage=\count197
+\c@Item=\count198
+\c@Hfootnote=\count199
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
+
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+\Fld@listcount=\count266
+\c@bookmark@seq@number=\count267
+
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip49
+)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks24
+\inpenc@posthook=\toks25
+)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup6
+)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen166
+\lightrulewidth=\dimen167
+\cmidrulewidth=\dimen168
+\belowrulesep=\dimen169
+\belowbottomsep=\dimen170
+\aboverulesep=\dimen171
+\abovetopsep=\dimen172
+\cmidrulesep=\dimen173
+\cmidrulekern=\dimen174
+\defaultaddspace=\dimen175
+\@cmidla=\count268
+\@cmidlb=\count269
+\@aboverulesep=\dimen176
+\@belowrulesep=\dimen177
+\@thisruleclass=\count270
+\@lastruleclass=\count271
+\@thisrulewidth=\dimen178
+)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count272
+\Gm@cntv=\count273
+\c@Gm@tempcnt=\count274
+\Gm@bindingoffset=\dimen179
+\Gm@wd@mp=\dimen180
+\Gm@odd@mp=\dimen181
+\Gm@even@mp=\dimen182
+\Gm@layoutwidth=\dimen183
+\Gm@layoutheight=\dimen184
+\Gm@layouthoffset=\dimen185
+\Gm@layoutvoffset=\dimen186
+\Gm@dimlist=\toks26
+
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip50
+\f@nch@O@elh=\skip51
+\f@nch@O@erh=\skip52
+\f@nch@O@olh=\skip53
+\f@nch@O@orh=\skip54
+\f@nch@O@elf=\skip55
+\f@nch@O@erf=\skip56
+\f@nch@O@olf=\skip57
+\f@nch@O@orf=\skip58
+)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip59
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks27
+\ex@=\dimen187
+))
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen188
+)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count275
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count276
+\leftroot@=\count277
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count278
+\DOTSCASE@=\count279
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+\big@size=\dimen189
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count280
+\c@MaxMatrixCols=\count281
+\dotsspace@=\muskip17
+\c@parentequation=\count282
+\dspbrk@lvl=\count283
+\tag@help=\toks28
+\row@=\count284
+\column@=\count285
+\maxfields@=\count286
+\andhelp@=\toks29
+\eqnshift@=\dimen190
+\alignsep@=\dimen191
+\tagshift@=\dimen192
+\tagwidth@=\dimen193
+\totwidth@=\dimen194
+\lineht@=\dimen195
+\@envbody=\toks30
+\multlinegap=\skip60
+\multlinetaggap=\skip61
+\mathdisplay@stack=\toks31
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/blindtext\blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/tools\xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count287
+\c@Blindtext=\count288
+\c@blind@countparstart=\count289
+\blind@countxx=\count290
+\blindtext@numBlindtext=\count291
+\blind@countyy=\count292
+\c@blindlist=\count293
+\c@blindlistlevel=\count294
+\c@blindlist@level=\count295
+\blind@listitem=\count296
+\c@blind@listcount=\count297
+\c@blind@levelcount=\count298
+\blind@mathformula=\count299
+\blind@Mathformula=\count300
+\c@blind@randomcount=\count301
+\c@blind@randommax=\count302
+\c@blind@pangramcount=\count303
+\c@blind@pangrammax=\count304
+)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/unicode-math\unicode-ma
+th.sty
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2020-10-27 L3 programming layer (loader) 
+
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count305
+\l__pdf_internal_box=\box53
+))
+Package: unicode-math 2020/01/31 v0.8q Unicode maths in XeLaTeX and LuaLaTeX
+
+
+! Package unicode-math Error: Cannot be run with pdftex!
+(unicode-math)                Use XeLaTeX or LuaLaTeX instead.
+
+Type <return> to continue.
+ ...                                              
+                                                  
+l.40 ...ror:nn {unicode-math} {unsupported-engine}
+                                                  
+
+LaTeX does not know anything more about this error, sorry.
+
+Try typing <return> to proceed.
+If that doesn't work, type X <return> to quit.
+
+
+)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/base\glossar
+ies.sty
+Package: glossaries 2020/03/19 v4.46 (NLCT)
+ (C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) (C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/mfirstuc\mfirstuc.sty
+Package: mfirstuc 2017/11/14 v2.06 (NLCT)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count306
+)
+\@glsmfirst=\toks32
+\@glsmrest=\toks33
+) (C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/textcase\textcase.sty
+Package: textcase 2019/09/14 v1.00 Text only upper/lower case changing (DPC)
+) (C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/xfor\xfor.sty
+Package: xfor 2009/02/05 v1.05 (NLCT)
+)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-base.
+sty
+Package: datatool-base 2019/09/27 v2.32 (NLCT)
+ (C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/substr\substr.sty
+Package: substr 2009/10/20 v1.2 Handle substrings
+\c@su@anzahl=\count307
+)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-fp.st
+y
+Package: datatool-fp 2019/09/27 v2.32 (NLCT)
+ (C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp.sty
+Package: fp 1995/04/02
+
+`Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/fp\defpattern.sty
+Package: defpattern 1994/10/12
+\actioncount=\count308
+)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-basic.sty
+Package: fp-basic 1996/05/13
+\FP@xs=\count309
+\FP@xia=\count310
+\FP@xib=\count311
+\FP@xfa=\count312
+\FP@xfb=\count313
+\FP@rega=\count314
+\FP@regb=\count315
+\FP@regs=\count316
+\FP@times=\count317
+)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-addons.sty
+Package: fp-addons 1995/03/15
+)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-snap.sty
+Package: fp-snap 1995/04/05
+)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-exp.sty
+Package: fp-exp 1995/04/03
+)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-trigo.sty
+Package: fp-trigo 1995/04/14
+)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-pas.sty
+Package: fp-pas 1994/08/29
+)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-random.sty
+Package: fp-random 1995/02/23
+\FPseed=\count318
+)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-eqn.sty
+Package: fp-eqn 1995/04/03
+)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-upn.sty
+Package: fp-upn 1996/10/21
+)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-eval.sty
+Package: fp-eval 1995/04/03
+)))
+\@dtl@toks=\toks34
+\@dtl@tmpcount=\count319
+\dtl@tmplength=\skip62
+\dtl@sortresult=\count320
+\@dtl@numgrpsepcount=\count321
+\@dtl@datatype=\count322
+\dtl@codeA=\count323
+\dtl@codeB=\count324
+\@dtl@foreach@level=\count325
+)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/base\glossar
+ies-compatible-307.sty
+Package: glossaries-compatible-307 2020/03/19 v4.46 (NLCT)
+)
+\gls@level=\count326
+\@gls@tmpb=\toks35
+\gls@tmplen=\skip63
+\glskeylisttok=\toks36
+\glslabeltok=\toks37
+\glsshorttok=\toks38
+\glslongtok=\toks39
+
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-hypernav.sty
+Package: glossary-hypernav 2020/03/19 v4.46 (NLCT)
+)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-list.sty
+Package: glossary-list 2020/03/19 v4.46 (NLCT)
+\glslistdottedwidth=\skip64
+)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-long.sty
+Package: glossary-long 2020/03/19 v4.46 (NLCT)
+
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+\LTleft=\skip65
+\LTright=\skip66
+\LTpre=\skip67
+\LTpost=\skip68
+\LTchunksize=\count327
+\LTcapwidth=\dimen196
+\LT@head=\box54
+\LT@firsthead=\box55
+\LT@foot=\box56
+\LT@lastfoot=\box57
+\LT@cols=\count328
+\LT@rows=\count329
+\c@LT@tables=\count330
+\c@LT@chunks=\count331
+\LT@p@ftn=\toks40
+)
+\glsdescwidth=\skip69
+\glspagelistwidth=\skip70
+)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-super.sty
+Package: glossary-super 2020/03/19 v4.46 (NLCT)
+
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/supertabular\supertabul
+ar.sty
+Package: supertabular 2020/02/02 v4.1g the supertabular environment
+\c@tracingst=\count332
+\ST@wd=\dimen197
+\ST@rightskip=\skip71
+\ST@leftskip=\skip72
+\ST@parfillskip=\skip73
+\ST@pageleft=\dimen198
+\ST@headht=\dimen199
+\ST@tailht=\dimen256
+\ST@pagesofar=\dimen257
+\ST@pboxht=\dimen258
+\ST@lineht=\dimen259
+\ST@prevht=\dimen260
+\ST@toadd=\dimen261
+\ST@dimen=\dimen262
+\ST@pbox=\box58
+))
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-tree.sty
+Package: glossary-tree 2020/03/19 v4.46 (NLCT)
+\glstreeindent=\skip74
+))
+\glswrite=\write3
+\glo@acronym@file=\write4
+\openout4 = `main.acn'.
+
+Package glossaries Info: Writing glossary file main.acn on input line 32.
+ (myglossaries.tex)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+Package: biblatex 2020/08/23 v3.15a programmable bibliographies (PK/MW)
+
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count333
+
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+\c@tabx@nest=\count334
+\c@listtotal=\count335
+\c@listcount=\count336
+\c@liststart=\count337
+\c@liststop=\count338
+\c@citecount=\count339
+\c@citetotal=\count340
+\c@multicitecount=\count341
+\c@multicitetotal=\count342
+\c@instcount=\count343
+\c@maxnames=\count344
+\c@minnames=\count345
+\c@maxitems=\count346
+\c@minitems=\count347
+\c@citecounter=\count348
+\c@maxcitecounter=\count349
+\c@savedcitecounter=\count350
+\c@uniquelist=\count351
+\c@uniquename=\count352
+\c@refsection=\count353
+\c@refsegment=\count354
+\c@maxextratitle=\count355
+\c@maxextratitleyear=\count356
+\c@maxextraname=\count357
+\c@maxextradate=\count358
+\c@maxextraalpha=\count359
+\c@abbrvpenalty=\count360
+\c@highnamepenalty=\count361
+\c@lownamepenalty=\count362
+\c@maxparens=\count363
+\c@parenlevel=\count364
+\blx@tempcnta=\count365
+\blx@tempcntb=\count366
+\blx@tempcntc=\count367
+\blx@maxsection=\count368
+\blx@maxsegment@0=\count369
+\blx@notetype=\count370
+\blx@parenlevel@text=\count371
+\blx@parenlevel@foot=\count372
+\blx@sectionciteorder@0=\count373
+\blx@entrysetcounter=\count374
+\blx@biblioinstance=\count375
+\labelnumberwidth=\skip75
+\labelalphawidth=\skip76
+\biblabelsep=\skip77
+\bibitemsep=\skip78
+\bibnamesep=\skip79
+\bibinitsep=\skip80
+\bibparsep=\skip81
+\bibhang=\skip82
+\blx@bcfin=\read2
+\blx@bcfout=\write5
+\blx@langwohyphens=\language79
+\c@mincomprange=\count376
+\c@maxcomprange=\count377
+\c@mincompwidth=\count378
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
+File: blx-dm.def 2020/08/23 v3.15a biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count379
+\c@savedafterword=\count380
+\c@annotator=\count381
+\c@savedannotator=\count382
+\c@author=\count383
+\c@savedauthor=\count384
+\c@bookauthor=\count385
+\c@savedbookauthor=\count386
+\c@commentator=\count387
+\c@savedcommentator=\count388
+\c@editor=\count389
+\c@savededitor=\count390
+\c@editora=\count391
+\c@savededitora=\count392
+\c@editorb=\count393
+\c@savededitorb=\count394
+\c@editorc=\count395
+\c@savededitorc=\count396
+\c@foreword=\count397
+\c@savedforeword=\count398
+\c@holder=\count399
+\c@savedholder=\count400
+\c@introduction=\count401
+\c@savedintroduction=\count402
+\c@namea=\count403
+\c@savednamea=\count404
+\c@nameb=\count405
+\c@savednameb=\count406
+\c@namec=\count407
+\c@savednamec=\count408
+\c@translator=\count409
+\c@savedtranslator=\count410
+\c@shortauthor=\count411
+\c@savedshortauthor=\count412
+\c@shorteditor=\count413
+\c@savedshorteditor=\count414
+\c@labelname=\count415
+\c@savedlabelname=\count416
+\c@institution=\count417
+\c@savedinstitution=\count418
+\c@lista=\count419
+\c@savedlista=\count420
+\c@listb=\count421
+\c@savedlistb=\count422
+\c@listc=\count423
+\c@savedlistc=\count424
+\c@listd=\count425
+\c@savedlistd=\count426
+\c@liste=\count427
+\c@savedliste=\count428
+\c@listf=\count429
+\c@savedlistf=\count430
+\c@location=\count431
+\c@savedlocation=\count432
+\c@organization=\count433
+\c@savedorganization=\count434
+\c@origlocation=\count435
+\c@savedoriglocation=\count436
+\c@origpublisher=\count437
+\c@savedorigpublisher=\count438
+\c@publisher=\count439
+\c@savedpublisher=\count440
+\c@language=\count441
+\c@savedlanguage=\count442
+\c@origlanguage=\count443
+\c@savedoriglanguage=\count444
+\c@pageref=\count445
+\c@savedpageref=\count446
+\shorthandwidth=\skip83
+\shortjournalwidth=\skip84
+\shortserieswidth=\skip85
+\shorttitlewidth=\skip86
+\shortauthorwidth=\skip87
+\shorteditorwidth=\skip88
+\locallabelnumberwidth=\skip89
+\locallabelalphawidth=\skip90
+\localshorthandwidth=\skip91
+\localshortjournalwidth=\skip92
+\localshortserieswidth=\skip93
+\localshorttitlewidth=\skip94
+\localshortauthorwidth=\skip95
+\localshorteditorwidth=\skip96
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
+File: blx-compat.def 2020/08/23 v3.15a biblatex compatibility (PK/MW)
+)
+Package biblatex Info: expl3
+(biblatex)             2020-10-27 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+Package biblatex Info: Trying to load expl3 case changing code...
+Package biblatex Info: ... file 'blx-case-expl3.def' found.
+
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3
+.def
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+e.sty
+Package: xparse 2020-10-27 L3 Experimental document command parser
+
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+e-generic.tex))
+File: blx-case-expl3 2020/08/23 v3.15a expl3 case changing code for biblatex
+)
+Package biblatex Info: Trying to load BibTeX backend compatibility...
+Package biblatex Info: ... file 'blx-bibtex.def' found.
+
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-bibtex.def
+File: blx-bibtex.def 2020/08/23 v3.15a biblatex compatibility (PK/MW)
+
+Package biblatex Warning: Using fall-back BibTeX(8) backend:
+(biblatex)                functionality may be reduced/unavailable.
+
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
+File: biblatex.def 2020/08/23 v3.15a biblatex compatibility (PK/MW)
+\c@textcitecount=\count447
+\c@textcitetotal=\count448
+\c@textcitemaxnames=\count449
+\c@biburlbigbreakpenalty=\count450
+\c@biburlbreakpenalty=\count451
+\c@biburlnumpenalty=\count452
+\c@biburlucpenalty=\count453
+\c@biburllcpenalty=\count454
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count455
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric.bb
+x
+File: numeric.bbx 2020/08/23 v3.15a biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.b
+bx
+File: standard.bbx 2020/08/23 v3.15a biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count456
+\c@bbx:relatedtotal=\count457
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\numeric.cb
+x
+File: numeric.cbx 2020/08/23 v3.15a biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
+File: biblatex.cfg 
+))
+\@quotelevel=\count458
+\@quotereset=\count459
+(main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: longtable package is loaded.
+
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
+Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
+)
+Package caption Info: supertabular package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count460
+\scratchdimen=\dimen263
+\scratchbox=\box59
+\nofMPsegments=\count461
+\nofMParguments=\count462
+\everyMPshowfont=\toks41
+\MPscratchCnt=\count463
+\MPscratchDim=\dimen264
+\MPnumerator=\count464
+\makeMPintoPDFobject=\count465
+\everyMPtoPDFconversion=\toks42
+)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+Package hyperref Info: Link coloring OFF on input line 50.
+
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count466
+)
+LaTeX Info: Redefining \ref on input line 50.
+LaTeX Info: Redefining \pageref on input line 50.
+LaTeX Info: Redefining \nameref on input line 50.
+ (main.out) (main.out)
+\@outlinefile=\write6
+\openout6 = `main.out'.
+
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(42.67912pt, 745.46222pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=745.46222pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-61.46466pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=88.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lb
+x
+File: english.lbx 2020/08/23 v3.15a biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Input encoding 'utf8' specified.
+Package biblatex Info: Data encoding 'utf8' specified.
+(biblatex)             No need to reencode data.
+\openout5 = `main-blx.bib'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'main.bbl' found.
+ (main.bbl)
+Package biblatex Info: Reference section=0 on input line 50.
+Package biblatex Info: Reference segment=0 on input line 50.
+<img/logo_unimib.pdf, id=143, 67.8029pt x 66.29492pt>
+File: img/logo_unimib.pdf Graphic file (type pdf)
+<use img/logo_unimib.pdf>
+Package pdftex.def Info: img/logo_unimib.pdf  used on input line 56.
+(pdftex.def)             Requested size: 77.9727pt x 76.23854pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--65
+
+ []
+
+
+Overfull \hbox (2.61047pt too wide) in paragraph at lines 54--68
+[] [] 
+ []
+
+[1
+
+\openout3 = `main.ist'.
+
+
+{C:/Users/Giobi/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./img/logo_unim
+ib.pdf>] [2
+
+
+] (main.acr [3] [4
+
+] [5
+
+])
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+Make it at least 14.49998pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+[6] (main.lof
+LaTeX Font Info:    Trying to load font information for U+msa on input line 7.
+
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 7.
+
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 7.
+
+
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+[7
+
+]
+Overfull \hbox (16.37215pt too wide) in paragraph at lines 45--45
+ [][] [][]\T1/cmr/m/n/12 AudioUNet ar-chi-tec-ture. It con-sists of B suc-ces-s
+ive down-sam-pling/upsampling 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8]
+Underfull \vbox (badness 1194) has occurred while \output is active []
+
+ [9])
+\tf@lof=\write7
+\openout7 = `main.lof'.
+
+
+[10] (main.lot
+Overfull \hbox (1.64978pt too wide) in paragraph at lines 7--7
+ [][] [][]\T1/cmr/m/n/12 Numerical il-lus-tra-tion of quan-ti-za-tion with one 
+sig-nif-i-cant digit us-ing round- 
+ []
+
+)
+\tf@lot=\write8
+\openout8 = `main.lot'.
+
+ [11
+
+] [12
+
+] (main.toc [13])
+\tf@toc=\write9
+\openout9 = `main.toc'.
+
+ [14]
+Chapter 1.
+(chapters/introduction.tex
+Underfull \vbox (badness 5563) has occurred while \output is active []
+
+ [15
+
+]
+[16] [17] [18] [19]) [20]
+Chapter 2.
+(chapters/chapter2.tex
+Underfull \vbox (badness 2790) has occurred while \output is active []
+
+ [21
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (14.49998pt): 
+Make it at least 27.15262pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+[22]
+<img/signals.png, id=662, 826.88925pt x 500.46976pt>
+File: img/signals.png Graphic file (type png)
+<use img/signals.png>
+Package pdftex.def Info: img/signals.png  used on input line 30.
+(pdftex.def)             Requested size: 471.33177pt x 285.27072pt.
+
+Overfull \hbox (16.08766pt too wide) in paragraph at lines 30--32
+ [] 
+ []
+
+[23 <./img/signals.png>] [24]
+<img/periodic_sampling.png, id=688, 1104.5265pt x 349.90726pt>
+File: img/periodic_sampling.png Graphic file (type png)
+<use img/periodic_sampling.png>
+Package pdftex.def Info: img/periodic_sampling.png  used on input line 63.
+(pdftex.def)             Requested size: 463.89798pt x 146.96004pt.
+
+Overfull \hbox (8.65387pt too wide) in paragraph at lines 63--65
+ [] 
+ []
+
+[25 <./img/periodic_sampling.png>]
+<img/aliasing.png, id=702, 1044.90375pt x 461.3235pt>
+File: img/aliasing.png Graphic file (type png)
+<use img/aliasing.png>
+Package pdftex.def Info: img/aliasing.png  used on input line 80.
+(pdftex.def)             Requested size: 417.9541pt x 184.52612pt.
+ [26 <./img/aliasing.png>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 107.
+
+<img/quantization.png, id=719, 544.434pt x 520.94624pt>
+File: img/quantization.png Graphic file (type png)
+<use img/quantization.png>
+Package pdftex.def Info: img/quantization.png  used on input line 109.
+(pdftex.def)             Requested size: 435.54779pt x 416.75757pt.
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 116.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [27 <./img/quantization.png>]
+<img/sinusoidal_signal.png, id=733, 978.65625pt x 462.528pt>
+File: img/sinusoidal_signal.png Graphic file (type png)
+<use img/sinusoidal_signal.png>
+Package pdftex.def Info: img/sinusoidal_signal.png  used on input line 158.
+(pdftex.def)             Requested size: 391.45557pt x 185.0079pt.
+ [28] [29 <./img/sinusoidal_signal.png>] [30]
+<img/evenodd.png, id=764, 493.845pt x 512.51476pt>
+File: img/evenodd.png Graphic file (type png)
+<use img/evenodd.png>
+Package pdftex.def Info: img/evenodd.png  used on input line 212.
+(pdftex.def)             Requested size: 395.07652pt x 410.01234pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [31 <./img/evenodd.png>] [32]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [33]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [34]
+Underfull \vbox (badness 3568) has occurred while \output is active []
+
+ [35]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 303.
+
+<img/dtsystem.png, id=843, 1112.958pt x 345.08925pt>
+File: img/dtsystem.png Graphic file (type png)
+<use img/dtsystem.png>
+Package pdftex.def Info: img/dtsystem.png  used on input line 305.
+(pdftex.def)             Requested size: 445.17532pt x 138.03325pt.
+[36] [37 <./img/dtsystem.png>]
+<img/unit.png, id=870, 846.7635pt x 337.86224pt>
+File: img/unit.png Graphic file (type png)
+<use img/unit.png>
+Package pdftex.def Info: img/unit.png  used on input line 349.
+(pdftex.def)             Requested size: 338.6994pt x 135.14249pt.
+ [38 <./img/unit.png>]
+Underfull \vbox (badness 1292) has occurred while \output is active []
+
+ [39]
+Underfull \hbox (badness 10000) in paragraph at lines 412--414
+
+ []
+
+<img/ai.png, id=926, 560.0925pt x 529.98pt>
+File: img/ai.png Graphic file (type png)
+<use img/ai.png>
+Package pdftex.def Info: img/ai.png  used on input line 431.
+(pdftex.def)             Requested size: 392.06207pt x 370.98346pt.
+[40]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [41]
+[42 <./img/ai.png>]
+<img/underoverfitting.png, id=977, 950.95274pt x 502.2765pt>
+File: img/underoverfitting.png Graphic file (type png)
+<use img/underoverfitting.png>
+Package pdftex.def Info: img/underoverfitting.png  used on input line 458.
+(pdftex.def)             Requested size: 380.37436pt x 200.90704pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 442--463
+
+ []
+
+[43]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [44]
+<img/data_aug.png, id=997, 713.66624pt x 515.526pt>
+File: img/data_aug.png Graphic file (type png)
+<use img/data_aug.png>
+Package pdftex.def Info: img/data_aug.png  used on input line 470.
+(pdftex.def)             Requested size: 392.51764pt x 283.54018pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 464--475
+
+ []
+
+[45 <./img/underoverfitting.png>]
+<img/sparse_interactions.png, id=1023, 530.58224pt x 516.12825pt>
+File: img/sparse_interactions.png Graphic file (type png)
+<use img/sparse_interactions.png>
+Package pdftex.def Info: img/sparse_interactions.png  used on input line 485.
+(pdftex.def)             Requested size: 265.29047pt x 258.06349pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 481--491
+
+ []
+
+[46 <./img/data_aug.png>]
+<img/deeperlayers.png, id=1040, 464.33475pt x 276.43275pt>
+File: img/deeperlayers.png Graphic file (type png)
+<use img/deeperlayers.png>
+Package pdftex.def Info: img/deeperlayers.png  used on input line 496.
+(pdftex.def)             Requested size: 232.1668pt x 138.21603pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 492--502
+
+ []
+
+[47 <./img/sparse_interactions.png>]
+<img/cnnviz.png, id=1054, 602.85225pt x 505.28775pt>
+File: img/cnnviz.png Graphic file (type png)
+<use img/cnnviz.png>
+Package pdftex.def Info: img/cnnviz.png  used on input line 507.
+(pdftex.def)             Requested size: 421.9937pt x 353.699pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--513
+
+ []
+
+
+Underfull \vbox (badness 6252) has occurred while \output is active []
+
+ [48 <./img/deeperlayers.png>]
+<img/rnn_graph.png, id=1069, 679.94025pt x 487.8225pt>
+File: img/rnn_graph.png Graphic file (type png)
+<use img/rnn_graph.png>
+Package pdftex.def Info: img/rnn_graph.png  used on input line 521.
+(pdftex.def)             Requested size: 394.36562pt x 282.93724pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 515--526
+
+ []
+
+[49 <./img/cnnviz.png>]
+<img/rnn_single_output.png, id=1086, 385.44pt x 314.3745pt>
+File: img/rnn_single_output.png Graphic file (type png)
+<use img/rnn_single_output.png>
+Package pdftex.def Info: img/rnn_single_output.png  used on input line 531.
+(pdftex.def)             Requested size: 289.07928pt x 235.78029pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 527--536
+
+ []
+
+[50 <./img/rnn_graph.png>]) [51 <./img/rnn_single_output.png>] [52
+
+]
+Chapter 3.
+(chapters/chapter3.tex [53]
+
+pdfTeX warning: pdflatex.exe (file ./img/tfnet_intuition.pdf): PDF inclusion: f
+ound PDF version <1.6>, but at most version <1.5> allowed
+<img/tfnet_intuition.pdf, id=1172, 411.28136pt x 249.39362pt>
+File: img/tfnet_intuition.pdf Graphic file (type pdf)
+<use img/tfnet_intuition.pdf>
+Package pdftex.def Info: img/tfnet_intuition.pdf  used on input line 27.
+(pdftex.def)             Requested size: 456.52144pt x 276.82637pt.
+
+Overfull \hbox (1.27733pt too wide) in paragraph at lines 27--29
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--32
+
+ []
+
+
+Underfull \vbox (badness 1057) has occurred while \output is active []
+
+ [54]
+[55 <./img/tfnet_intuition.pdf>]
+<img/tfnet_pipeline.png, id=1265, 963.6pt x 542.025pt>
+File: img/tfnet_pipeline.png Graphic file (type png)
+<use img/tfnet_pipeline.png>
+Package pdftex.def Info: img/tfnet_pipeline.png  used on input line 41.
+(pdftex.def)             Requested size: 462.52275pt x 260.16904pt.
+
+Overfull \hbox (7.27864pt too wide) in paragraph at lines 41--43
+ [] 
+ []
+
+<img/audiounet.png, id=1282, 1256.695pt x 557.08125pt>
+File: img/audiounet.png Graphic file (type png)
+<use img/audiounet.png>
+Package pdftex.def Info: img/audiounet.png  used on input line 56.
+(pdftex.def)             Requested size: 439.84984pt x 194.98135pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [56 <./img/tfnet_pipeline.png>]
+Underfull \vbox (badness 6001) has occurred while \output is active []
+
+ [57]
+<img/spectral_replicator.png, id=1309, 493.845pt x 263.18324pt>
+File: img/spectral_replicator.png Graphic file (type png)
+<use img/spectral_replicator.png>
+Package pdftex.def Info: img/spectral_replicator.png  used on input line 76.
+(pdftex.def)             Requested size: 320.99544pt x 171.06708pt.
+
+[58 <./img/audiounet.png>] [59] [60 <./img/spectral_replicator.png>]
+Overfull \hbox (15.04892pt too wide) in paragraph at lines 106--107
+[]\T1/cmr/m/n/12 Compute, for $\OML/cmm/m/it/12 b \OT1/cmr/m/n/12 = 1\OML/cmm/m
+/it/12 ; \OT1/cmr/m/n/12 2\OML/cmm/m/it/12 ; [] ; B$\T1/cmr/m/n/12 , an affine 
+trans-for-ma-tion $[] \OML/cmm/m/it/12 ; h[] \OT1/cmr/m/n/12 = [] []$
+ []
+
+<img/tfilm_layer.pdf, id=1353, 243.09853pt x 183.90163pt>
+File: img/tfilm_layer.pdf Graphic file (type pdf)
+<use img/tfilm_layer.pdf>
+Package pdftex.def Info: img/tfilm_layer.pdf  used on input line 116.
+(pdftex.def)             Requested size: 364.64687pt x 275.85175pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--121
+
+ []
+
+[61]
+<img/tfilm_bottleneck.pdf, id=1383, 173.11101pt x 142.39493pt>
+File: img/tfilm_bottleneck.pdf Graphic file (type pdf)
+<use img/tfilm_bottleneck.pdf>
+Package pdftex.def Info: img/tfilm_bottleneck.pdf  used on input line 127.
+(pdftex.def)             Requested size: 328.90901pt x 270.54881pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--132
+
+ []
+
+[62 <./img/tfilm_layer.pdf>]
+<img/tfilm_pipeline.png, id=1451, 963.6pt x 542.025pt>
+File: img/tfilm_pipeline.png Graphic file (type png)
+<use img/tfilm_pipeline.png>
+Package pdftex.def Info: img/tfilm_pipeline.png  used on input line 139.
+(pdftex.def)             Requested size: 462.52275pt x 260.16904pt.
+
+Overfull \hbox (7.27864pt too wide) in paragraph at lines 139--141
+ [] 
+ []
+
+[63 <./img/tfilm_bottleneck.pdf>] [64 <./img/tfilm_pipeline.png>]
+<img/dilated_conv.png, id=1496, 2119.92pt x 762.85pt>
+File: img/dilated_conv.png Graphic file (type png)
+<use img/dilated_conv.png>
+Package pdftex.def Info: img/dilated_conv.png  used on input line 154.
+(pdftex.def)             Requested size: 445.19633pt x 160.20323pt.
+ [65 <./img/dilated_conv.png (PNG copy)>]
+<img/proposed_pipeline.png, id=1531, 963.6pt x 542.025pt>
+File: img/proposed_pipeline.png Graphic file (type png)
+<use img/proposed_pipeline.png>
+Package pdftex.def Info: img/proposed_pipeline.png  used on input line 188.
+(pdftex.def)             Requested size: 462.52275pt x 260.16904pt.
+
+Overfull \hbox (7.27864pt too wide) in paragraph at lines 188--190
+ [] 
+ []
+
+[66]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [67 <./img/proposed_pipeline.png>]) [68]
+Chapter 4.
+(chapters/chapter4.tex
+<img/colab_logo.png, id=1574, 260.975pt x 260.975pt>
+File: img/colab_logo.png Graphic file (type png)
+<use img/colab_logo.png>
+Package pdftex.def Info: img/colab_logo.png  used on input line 10.
+(pdftex.def)             Requested size: 79.66736pt x 79.66695pt.
+<img/tensorflow_logo.png, id=1575, 960.58875pt x 1027.84pt>
+File: img/tensorflow_logo.png Graphic file (type png)
+<use img/tensorflow_logo.png>
+Package pdftex.def Info: img/tensorflow_logo.png  used on input line 15.
+(pdftex.def)             Requested size: 68.2873pt x 73.054pt.
+<img/librosa_logo.png, id=1576, 431.211pt x 177.0615pt>
+File: img/librosa_logo.png Graphic file (type png)
+<use img/librosa_logo.png>
+Package pdftex.def Info: img/librosa_logo.png  used on input line 20.
+(pdftex.def)             Requested size: 125.19281pt x 51.40594pt.
+
+Overfull \hbox (11.38179pt too wide) in paragraph at lines 20--22
+ [][] 
+ []
+
+<img/scipy_logo.png, id=1577, 862.9038pt x 848.4498pt>
+File: img/scipy_logo.png Graphic file (type png)
+<use img/scipy_logo.png>
+Package pdftex.def Info: img/scipy_logo.png  used on input line 25.
+(pdftex.def)             Requested size: 62.5964pt x 61.54663pt.
+[69
+
+ <./img/colab_logo.png> <./img/tensorflow_logo.png> <./img/librosa_logo.png> <.
+/img/scipy_logo.png>]
+<img/count_speakers_by_accents.png, id=1598, 1138.54158pt x 721.9773pt>
+File: img/count_speakers_by_accents.png Graphic file (type png)
+<use img/count_speakers_by_accents.png>
+Package pdftex.def Info: img/count_speakers_by_accents.png  used on input line 
+41.
+(pdftex.def)             Requested size: 455.40857pt x 288.7858pt.
+<img/age_distribution_by_gender.png, id=1611, 578.16pt x 433.62pt>
+File: img/age_distribution_by_gender.png Graphic file (type png)
+<use img/age_distribution_by_gender.png>
+Package pdftex.def Info: img/age_distribution_by_gender.png  used on input line
+ 54.
+(pdftex.def)             Requested size: 346.89867pt x 260.17401pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--58
+
+ []
+
+[70] [71 <./img/count_speakers_by_accents.png>] [72 <./img/age_distribution_by_
+gender.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 84--88
+
+ []
+
+[73]
+<img/tfnet_loss.png, id=1665, 722.7pt x 578.16pt>
+File: img/tfnet_loss.png Graphic file (type png)
+<use img/tfnet_loss.png>
+Package pdftex.def Info: img/tfnet_loss.png  used on input line 92.
+(pdftex.def)             Requested size: 239.00385pt x 191.1992pt.
+
+Overfull \hbox (11.38179pt too wide) in paragraph at lines 92--94
+ [][] 
+ []
+
+<img/tfnet_snr.png, id=1666, 722.7pt x 578.16pt>
+File: img/tfnet_snr.png Graphic file (type png)
+<use img/tfnet_snr.png>
+Package pdftex.def Info: img/tfnet_snr.png  used on input line 97.
+(pdftex.def)             Requested size: 239.00385pt x 191.1992pt.
+
+Overfull \hbox (11.38179pt too wide) in paragraph at lines 97--99
+ [][] 
+ []
+
+<img/tfilmnet_loss.png, id=1669, 722.7pt x 578.16pt>
+File: img/tfilmnet_loss.png Graphic file (type png)
+<use img/tfilmnet_loss.png>
+Package pdftex.def Info: img/tfilmnet_loss.png  used on input line 107.
+(pdftex.def)             Requested size: 239.00385pt x 191.1992pt.
+
+Overfull \hbox (11.38179pt too wide) in paragraph at lines 107--109
+ [][] 
+ []
+
+<img/tfilmnet_snr.png, id=1670, 722.7pt x 578.16pt>
+File: img/tfilmnet_snr.png Graphic file (type png)
+<use img/tfilmnet_snr.png>
+Package pdftex.def Info: img/tfilmnet_snr.png  used on input line 112.
+(pdftex.def)             Requested size: 239.00385pt x 191.1992pt.
+
+Overfull \hbox (11.38179pt too wide) in paragraph at lines 112--114
+ [][] 
+ []
+
+<img/gionet_loss.png, id=1673, 722.7pt x 578.16pt>
+File: img/gionet_loss.png Graphic file (type png)
+<use img/gionet_loss.png>
+Package pdftex.def Info: img/gionet_loss.png  used on input line 122.
+(pdftex.def)             Requested size: 239.00385pt x 191.1992pt.
+
+Overfull \hbox (11.38179pt too wide) in paragraph at lines 122--124
+ [][] 
+ []
+
+<img/gionet_snr.png, id=1674, 722.7pt x 578.16pt>
+File: img/gionet_snr.png Graphic file (type png)
+<use img/gionet_snr.png>
+Package pdftex.def Info: img/gionet_snr.png  used on input line 127.
+(pdftex.def)             Requested size: 239.00385pt x 191.1992pt.
+
+Overfull \hbox (11.38179pt too wide) in paragraph at lines 127--129
+ [][] 
+ []
+
+[74 <./img/tfnet_loss.png> <./img/tfnet_snr.png> <./img/tfilmnet_loss.png> <./i
+mg/tfilmnet_snr.png>] [75 <./img/gionet_loss.png> <./img/gionet_snr.png>]
+<img/wer_letters.png, id=1722, 877.47826pt x 454.0965pt>
+File: img/wer_letters.png Graphic file (type png)
+<use img/wer_letters.png>
+Package pdftex.def Info: img/wer_letters.png  used on input line 163.
+(pdftex.def)             Requested size: 350.98508pt x 181.63538pt.
+
+Underfull \vbox (badness 3386) has occurred while \output is active []
+
+ [76]
+Underfull \hbox (badness 10000) in paragraph at lines 173--178
+
+ []
+
+[77 <./img/wer_letters.png>]
+<img/snr_results.png, id=1810, 1150.97202pt x 694.22562pt>
+File: img/snr_results.png Graphic file (type png)
+<use img/snr_results.png>
+Package pdftex.def Info: img/snr_results.png  used on input line 226.
+(pdftex.def)             Requested size: 460.38065pt x 277.68532pt.
+
+Overfull \hbox (5.13654pt too wide) in paragraph at lines 226--227
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--230
+
+ []
+
+[78]
+<img/lsd_results.png, id=1818, 1170.62946pt x 720.09828pt>
+File: img/lsd_results.png Graphic file (type png)
+<use img/lsd_results.png>
+Package pdftex.def Info: img/lsd_results.png  used on input line 234.
+(pdftex.def)             Requested size: 468.24348pt x 288.0342pt.
+
+Overfull \hbox (12.99937pt too wide) in paragraph at lines 234--235
+ [] 
+ []
+
+<img/wer_results.png, id=1821, 1157.0427pt x 720.24281pt>
+File: img/wer_results.png Graphic file (type png)
+<use img/wer_results.png>
+Package pdftex.def Info: img/wer_results.png  used on input line 242.
+(pdftex.def)             Requested size: 462.80888pt x 288.09203pt.
+
+Overfull \hbox (7.56477pt too wide) in paragraph at lines 242--243
+ [] 
+ []
+
+[79 <./img/snr_results.png>]
+
+LaTeX Warning: Text page 80 contains only floats.
+
+[80 <./img/lsd_results.png> <./img/wer_results.png>]
+<img/original_signal_spec.png, id=1846, 833.85126pt x 529.59456pt>
+File: img/original_signal_spec.png Graphic file (type png)
+<use img/original_signal_spec.png>
+Package pdftex.def Info: img/original_signal_spec.png  used on input line 255.
+(pdftex.def)             Requested size: 416.9246pt x 264.79663pt.
+<img/lowres_signal_spec.png, id=1847, 831.105pt x 524.82474pt>
+File: img/lowres_signal_spec.png Graphic file (type png)
+<use img/lowres_signal_spec.png>
+Package pdftex.def Info: img/lowres_signal_spec.png  used on input line 263.
+(pdftex.def)             Requested size: 415.55148pt x 262.41171pt.
+<img/model_signal_spec.png, id=1848, 827.92513pt x 522.80118pt>
+File: img/model_signal_spec.png Graphic file (type png)
+<use img/model_signal_spec.png>
+Package pdftex.def Info: img/model_signal_spec.png  used on input line 271.
+(pdftex.def)             Requested size: 413.96155pt x 261.39995pt.
+<img/weights_results.png, id=1853, 751.02985pt x 504.01099pt>
+File: img/weights_results.png Graphic file (type png)
+<use img/weights_results.png>
+Package pdftex.def Info: img/weights_results.png  used on input line 283.
+(pdftex.def)             Requested size: 465.6337pt x 312.48358pt.
+
+Overfull \hbox (10.38959pt too wide) in paragraph at lines 283--284
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--287
+
+ []
+
+[81 <./img/original_signal_spec.png>]
+Underfull \vbox (badness 5985) has occurred while \output is active []
+
+ [82 <./img/lowres_signal_spec.png> <./img/model_signal_spec.png>])
+Underfull \hbox (badness 10000) in paragraph at lines 288--128
+
+ []
+
+[83 <./img/weights_results.png>] [84
+
+]
+Chapter 5.
+(chapters/chapter5.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--131
+
+ []
+
+
+Underfull \vbox (badness 5563) has occurred while \output is active []
+
+ [85]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [86]
+[87] [88
+
+]
+Overfull \hbox (1.18585pt too wide) in paragraph at lines 133--133
+\T1/cmr/m/it/12 IEEE Trans-ac-tions on Acous-tics, Speech, and Sig-nal Pro-cess
+-ing \T1/cmr/m/n/12 24.5 (1976), pp. 380
+ []
+
+[89] [90]
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
+32.
+
+(C:\Users\Giobi\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+[91]
+Overfull \hbox (45.64908pt too wide) in paragraph at lines 133--133
+\T1/cmr/m/n/12 adap-tive neu-ral acous-tic mod-el-ing in speech recog-ni-tion''
+. In: \T1/cmr/m/it/12 arXiv preprint arXiv:1707.06065
+ []
+
+
+Overfull \hbox (9.85938pt too wide) in paragraph at lines 133--133
+[]\T1/cmr/m/n/12 Mads G Chris-tensen. ``What Is Sound?'' In: \T1/cmr/m/it/12 In
+-tro-duc-tion to Au-dio Pro-cess-ing\T1/cmr/m/n/12 . Springer,
+ []
+
+[92] [93] (main.aux)
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: C7EAFBA1591F8CA8DC1516231261E68E;2442.
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 23017 strings out of 479799
+ 404842 string characters out of 2869722
+ 1123711 words of memory out of 3000000
+ 39221 multiletter control sequences out of 15000+200000
+ 553810 words of font info for 71 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 94i,18n,98p,1851b,1707s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{glo:wer} has been referenced but does not exist, 
+replaced by a fixed one
+
+ <C:\Users\Giobi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt12
+00.pk> <C:\Users\Giobi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\
+ecbi0800.pk> <C:\Users\Giobi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/d
+pi600\ecrm0800.pk> <C:\Users\Giobi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappe
+n/ec/dpi600\tcrm1200.pk> <C:\Users\Giobi\AppData\Local\MiKTeX\fonts/pk/ljfour/j
+knappen/ec/dpi600\ecbx1728.pk> <C:\Users\Giobi\AppData\Local\MiKTeX\fonts/pk/lj
+four/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\Giobi\AppData\Local\MiKTeX\fonts
+/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Giobi\AppData\Local\MiKTeX
+\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\Giobi\AppData\Local\
+MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\Giobi\AppData\
+Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Giobi\Ap
+pData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk> <C:\Users\Gi
+obi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Us
+ers\Giobi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1200.pk><
+C:/Users/Giobi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmb
+x12.pfb><C:/Users/Giobi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmex10.pfb><C:/Users/Giobi/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmmi10.pfb><C:/Users/Giobi/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Giobi/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Giobi/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Giobi/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Giobi/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/Gi
+obi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/
+Users/Giobi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.
+pfb><C:/Users/Giobi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
+m/cmr5.pfb><C:/Users/Giobi/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmr6.pfb><C:/Users/Giobi/AppData/Local/Programs/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmr7.pfb><C:/Users/Giobi/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmr8.pfb><C:/Users/Giobi/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Giobi/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Giobi/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/Giobi/AppData
+/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Giobi
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Use
+rs/Giobi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam
+10.pfb><C:/Users/Giobi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
+s/symbols/msbm10.pfb><C:/Users/Giobi/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/rsfs/rsfs10.pfb><C:/Users/Giobi/AppData/Local/Programs/MiKTeX/fonts/type
+1/urw/times/utmb8a.pfb><C:/Users/Giobi/AppData/Local/Programs/MiKTeX/fonts/type
+1/urw/times/utmr8a.pfb><C:/Users/Giobi/AppData/Local/Programs/MiKTeX/fonts/type
+1/urw/times/utmri8a.pfb>
+Output written on main.pdf (93 pages, 49628376 bytes).
+PDF statistics:
+ 2580 PDF objects out of 2984 (max. 8388607)
+ 323 named destinations out of 1000 (max. 500000)
+ 511 words of extra memory for PDF output out of 10000 (max. 10000000)
+

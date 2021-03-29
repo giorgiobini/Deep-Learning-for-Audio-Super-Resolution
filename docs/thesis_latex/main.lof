@@ -1,0 +1,89 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.1}{\ignorespaces (a) \textit {Analog}, (b) \textit {quantized-analog}, (c) \textit {sampled}, and (d) \textit {digital} signals. From \cite {avanzini2005fundamentals}.\relax }}{23}{figure.caption.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Periodic sampling of an analog signal. From \cite {proakis2006dimitris}.\relax }}{25}{figure.caption.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Illustration of aliasing; the sampling frequency $F_{s} = 1$ \gls {hz} is not sufficiently high to unambiguously reconstruct the original sinusoid. From \cite {proakis2006dimitris}.\relax }}{26}{figure.caption.9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Graphical example of quantization. From \cite {proakis2006dimitris}.\relax }}{27}{figure.caption.10}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Example of a discrete-time sinusoidal signal ($\omega = \frac {\pi }{6}$ and $\phi = \frac {\pi }{3}$). From \cite {proakis2006dimitris}.\relax }}{29}{figure.caption.12}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Example of even (a) and odd (b) signals. From \cite {proakis2006dimitris}.\relax }}{31}{figure.caption.14}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Block diagram representation of a discrete-time system. From \cite {proakis2006dimitris}.\relax }}{37}{figure.caption.18}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Graphical representation of the unit sample signal. From \cite {proakis2006dimitris}.\relax }}{38}{figure.caption.20}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.9}{\ignorespaces A Venn diagram showing the conceptual location of \gls {dl}, \gls {ml} and \gls {ai} in the terms hierarchy. We can consider \gls {ai} as the term with the wider range of uses. Each section of the diagram includes an example of an \gls {ai} technology. From \cite {goodfellow2016deep}.\relax }}{42}{figure.caption.21}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Bias and Variance trade-off. As the capacity (complexity) of the model increases (x-axis), bias (dotted) tends to decrease and variance (dashed) tends to increase. The optimal capacity occurs when both bias and variance errors are minimized. From \cite {goodfellow2016deep}.\relax }}{45}{figure.caption.22}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Examples of color augmentations tested by Wu et al \cite {wu2015deep}.\relax }}{46}{figure.caption.23}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Graphical representation of the connections between input and output units in both convolutional and fully connected approaches. \textit {Top:} When we use \gls {cnn} layers with a kernel of width 3, the connectivity is sparse such that each output unit is affected only by 3 input units. \textit {Bottom:} In fully connected layers each output unit is formed by matrix multiplication, so that all of the inputs affect the highlighted $s_3$. From \cite {goodfellow2016deep}.\relax }}{47}{figure.caption.24}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.13}{\ignorespaces Deeper layers can indirectly interact with a larger portion of the input. From \cite {goodfellow2016deep}.\relax }}{48}{figure.caption.25}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.14}{\ignorespaces A convolutional neural network extracts increasingly abstract features from an image. From \cite {goodfellow2016deep}.\relax }}{49}{figure.caption.26}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.15}{\ignorespaces "The computational graph to compute the training loss of a recurrent network that maps an input sequence of \textbf {x} values to a corresponding sequence of output \textbf {o} values. A loss \textbf {L} measures how far each \textbf {o} is from the corresponding training target \textbf {y}. When using softmax outputs, we assume \textbf {o} is the unnormalized log probabilities. The loss \textbf {L} internally computes \textbf {$\hat {y}$} = softmax(\textbf {o}) and compares this to the target \textbf {y}. The \gls {rnn} has input to hidden connections parametrized by a weight matrix \textbf {U}, hidden-to-hidden recurrent connections parametrized by a weight matrix \textbf {W}, and hidden-to-output connections parametrized by a weight matrix \textbf {V}". \textit {Left:} Circuit diagram representation. \textit {Right:} The same \gls {rnn} seen as an unfolded computational graph. From \cite {goodfellow2016deep}.\relax }}{50}{figure.caption.27}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.16}{\ignorespaces Time-unfolded \gls {rnn} with a single output at the end of the sequence. From \cite {goodfellow2016deep}.\relax }}{51}{figure.caption.28}%
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.1}{\ignorespaces \textit {Top row}: Examples of image \gls {sr} and semantic image inpainting reconstruction. \textit {Bottom row}: Illustration of the input/output for audio \gls {sr} in time and frequency domain. From \cite {lim2018time}.\relax }}{55}{figure.caption.29}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Overall pipeline of \gls {tfnet}. The system exploits both time and frequency domain information in order to map the \gls {lr} input $x$ to the \gls {hr} reconstruction $\hat {y}$. From \cite {lim2018time}.\relax }}{56}{figure.caption.30}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.3}{\ignorespaces AudioUNet architecture. It consists of B successive downsampling/upsampling blocks linked by residual connections. From \cite {kuleshov2017audio}.\relax }}{58}{figure.caption.31}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Spectrogram showing how the signal is processed through the Spectral Replicator layer. The low-frequency components of the input spectrum are replicated three times in order to replace zeros in the high-frequency counterpart. From \cite {lim2018time}.\relax }}{60}{figure.caption.32}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.5}{\ignorespaces The \gls {tfilm} layer in detail. In this example the 1D tensor of convolutional activations has the following shape: $F \in \mathbf {R}^{8 \times 2}$. The 2 blocks are first processed by a Max Pooling layer (whit a pooling factor of 2) and then by the \gls {rnn}. Finally, the output of the recurrent network is used to modulate the convolutional layer.From \cite {birnbaum2019temporal}.\relax }}{62}{figure.caption.33}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.6}{\ignorespaces \textit {Top}: \gls {tfilm} Net architecture used for audio super-resolution. It consists of K downsampling blocks followed by a bottleneck layer and K upsampling blocks; features are reused via symmetric residual skip connections. \textit {Bottom}: Internal structure of downsampling and upsampling convolutional blocks. From \cite {birnbaum2019temporal}.\relax }}{63}{figure.caption.34}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Overall pipeline of \gls {tfilm} Net. The system integrates convolutional and recurrent layers to efficiently incorporate long-term input dependencies by operating in the time-domain.\relax }}{64}{figure.caption.35}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.8}{\ignorespaces (a) 1-Dilated Convolution has a receptive field of $3 \times 3$. (b) 2-Dilated Convolution has a receptive field of $7 \times 7$. (c) 4-Dilated Convolution has a receptive field of $15 \times 15$. The number of parameters associated with each layer is identical. The receptive field grows exponentially while the number of parameters grows linearly. From \cite {yu2015multi}.\relax }}{65}{figure.caption.36}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Overall pipeline of the proposed model. On one hand, the system maintains the branching structure of \gls {tfnet} that allows to processes audio in both time and frequency domain. On the other hand, the model uses \gls {tfilm} Net to predict both the audio reconstruction and the spectral magnitude.\relax }}{67}{figure.caption.37}%
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.1}{\ignorespaces From the left, the logos of Colab, Tensorflow, Librosa and Scipy.\relax }}{69}{figure.caption.38}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Bar chart showing the count of speakers in \gls {vctk} dataset based on their accent.\relax }}{71}{figure.caption.39}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Violin plot showing the age distribution of speakers in \gls {vctk} dataset based on level of gender.\relax }}{72}{figure.caption.40}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.4}{\ignorespaces \gls {tfnet} training curves on both training and validation sets. The model is trained for 127 epochs.\relax }}{74}{figure.caption.42}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.5}{\ignorespaces \gls {tfilm} Net training curves on both training and validation sets. The model is trained for 351 epochs.\relax }}{74}{figure.caption.43}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Proposed net training curves on both training and validation sets. The model is trained for 175 epochs.\relax }}{75}{figure.caption.44}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Example of $H, S, D, I$ classification on the input words “my computer’s deaf in’he?”. From \cite {morris2004and}.\relax }}{77}{figure.caption.45}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.8}{\ignorespaces SNR results (in \gls {db}) on Test Set for both Single-Speaker and Multi-Speaker tasks. Higher is better.\relax }}{79}{figure.caption.49}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.9}{\ignorespaces LSD results (in \gls {db}) on Test Set for both Single-Speaker and Multi-Speaker tasks. Lower is better.\relax }}{80}{figure.caption.50}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.10}{\ignorespaces \gls {wer} results (in percentage) on Test Set for both Single-Speaker and Multi-Speaker tasks. \gls {wer} on original recordings is, respectively, equal to 0.03 and 0.08. Lower is better.\relax }}{80}{figure.caption.51}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Spectrogram showing how the frequency content of a 16kHz signal changes over time.\relax }}{81}{figure.caption.52}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Spectrogram showing the spline reconstruction of the signal.\relax }}{82}{figure.caption.53}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Spectrogram showing the model reconstruction of the signal.\relax }}{82}{figure.caption.54}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Spectral Fusion Layer weights distribution for both the \gls {tfnet} model and the proposed system.\relax }}{83}{figure.caption.56}%
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }

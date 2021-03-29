@@ -1,0 +1,1941 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{ynt/global//global/global}
+  \entry{kiefer1952stochastic}{article}{}
+    \true{moreauthor}
+    \true{morelabelname}
+    \name{author}{2}{}{%
+      {{hash=KJ}{%
+         family={Kiefer},
+         familyi={K\bibinitperiod},
+         given={Jack},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=WJ}{%
+         family={Wolfowitz},
+         familyi={W\bibinitperiod},
+         given={Jacob},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Institute of Mathematical Statistics}%
+    }
+    \strng{namehash}{KJWJ+1}
+    \strng{fullhash}{KJWJ+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{1}
+    \field{sortinithash}{1}
+    \field{number}{3}
+    \field{pages}{462\bibrangedash 466}
+    \field{title}{Stochastic estimation of the maximum of a regression
+  function}
+    \field{volume}{23}
+    \field{journaltitle}{The Annals of Mathematical Statistics}
+    \field{year}{1952}
+  \endentry
+
+  \entry{gray1976distance}{article}{}
+    \name{author}{2}{}{%
+      {{hash=GA}{%
+         family={Gray},
+         familyi={G\bibinitperiod},
+         given={Augustine},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MJ}{%
+         family={Markel},
+         familyi={M\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{GAMJ1}
+    \strng{fullhash}{GAMJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{1}
+    \field{sortinithash}{1}
+    \field{number}{5}
+    \field{pages}{380\bibrangedash 391}
+    \field{title}{Distance measures for speech processing}
+    \field{volume}{24}
+    \field{journaltitle}{IEEE Transactions on Acoustics, Speech, and Signal
+  Processing}
+    \field{year}{1976}
+  \endentry
+
+  \entry{rumelhart1985learning}{report}{}
+    \name{author}{3}{}{%
+      {{hash=RDE}{%
+         family={Rumelhart},
+         familyi={R\bibinitperiod},
+         given={David\bibnamedelima E},
+         giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=HGE}{%
+         family={Hinton},
+         familyi={H\bibinitperiod},
+         given={Geoffrey\bibnamedelima E},
+         giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=WRJ}{%
+         family={Williams},
+         familyi={W\bibinitperiod},
+         given={Ronald\bibnamedelima J},
+         giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RDEHGEWRJ1}
+    \strng{fullhash}{RDEHGEWRJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{1}
+    \field{sortinithash}{1}
+    \field{title}{Learning internal representations by error propagation}
+    \list{institution}{1}{%
+      {California Univ San Diego La Jolla Inst for Cognitive Science}%
+    }
+    \field{type}{techreport}
+    \field{year}{1985}
+  \endentry
+
+  \entry{werbos1990backpropagation}{article}{}
+    \name{author}{1}{}{%
+      {{hash=WPJ}{%
+         family={Werbos},
+         familyi={W\bibinitperiod},
+         given={Paul\bibnamedelima J},
+         giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{WPJ1}
+    \strng{fullhash}{WPJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{1}
+    \field{sortinithash}{1}
+    \field{number}{10}
+    \field{pages}{1550\bibrangedash 1560}
+    \field{title}{Backpropagation through time: what it does and how to do it}
+    \field{volume}{78}
+    \field{journaltitle}{Proceedings of the IEEE}
+    \field{year}{1990}
+  \endentry
+
+  \entry{amari1993backpropagation}{article}{}
+    \name{author}{1}{}{%
+      {{hash=ASi}{%
+         family={Amari},
+         familyi={A\bibinitperiod},
+         given={Shun-ichi},
+         giveni={S\bibinithyphendelim i\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{ASi1}
+    \strng{fullhash}{ASi1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{1}
+    \field{sortinithash}{1}
+    \field{number}{4-5}
+    \field{pages}{185\bibrangedash 196}
+    \field{title}{Backpropagation and stochastic gradient descent method}
+    \field{volume}{5}
+    \field{journaltitle}{Neurocomputing}
+    \field{year}{1993}
+  \endentry
+
+  \entry{cheng1994statistical}{article}{}
+    \name{author}{3}{}{%
+      {{hash=CYM}{%
+         family={Cheng},
+         familyi={C\bibinitperiod},
+         given={Yan\bibnamedelima Ming},
+         giveni={Y\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=OD}{%
+         family={O'Shaughnessy},
+         familyi={O\bibinitperiod},
+         given={Douglas},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=MP}{%
+         family={Mermelstein},
+         familyi={M\bibinitperiod},
+         given={Paul},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{CYMODMP1}
+    \strng{fullhash}{CYMODMP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{1}
+    \field{sortinithash}{1}
+    \field{number}{4}
+    \field{pages}{544\bibrangedash 548}
+    \field{title}{Statistical recovery of wideband speech from narrowband
+  speech}
+    \field{volume}{2}
+    \field{journaltitle}{IEEE Transactions on Speech and Audio Processing}
+    \field{year}{1994}
+  \endentry
+
+  \entry{hochreiter1997long}{article}{}
+    \name{author}{2}{}{%
+      {{hash=HS}{%
+         family={Hochreiter},
+         familyi={H\bibinitperiod},
+         given={Sepp},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Schmidhuber},
+         familyi={S\bibinitperiod},
+         given={J{\"u}rgen},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {MIT Press}%
+    }
+    \strng{namehash}{HSSJ1}
+    \strng{fullhash}{HSSJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{1}
+    \field{sortinithash}{1}
+    \field{number}{8}
+    \field{pages}{1735\bibrangedash 1780}
+    \field{title}{Long short-term memory}
+    \field{volume}{9}
+    \field{journaltitle}{Neural computation}
+    \field{year}{1997}
+  \endentry
+
+  \entry{mitchell1997machine}{book}{}
+    \name{author}{1}{}{%
+      {{hash=MT}{%
+         family={Mitchell},
+         familyi={M\bibinitperiod},
+         given={TM},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {McGraw Hill}%
+    }
+    \strng{namehash}{MT1}
+    \strng{fullhash}{MT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{1}
+    \field{sortinithash}{1}
+    \field{title}{Machine Learning}
+    \field{year}{1997}
+  \endentry
+
+  \entry{park2000narrowband}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=PKY}{%
+         family={Park},
+         familyi={P\bibinitperiod},
+         given={Kun-Youl},
+         giveni={K\bibinithyphendelim Y\bibinitperiod},
+      }}%
+      {{hash=KHS}{%
+         family={Kim},
+         familyi={K\bibinitperiod},
+         given={Hyung\bibnamedelima Soon},
+         giveni={H\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{PKYKHS1}
+    \strng{fullhash}{PKYKHS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{2000 IEEE international conference on acoustics, speech,
+  and signal processing. Proceedings (Cat. No. 00CH37100)}
+    \field{pages}{1843\bibrangedash 1846}
+    \field{title}{Narrowband to wideband conversion of speech using GMM based
+  transformation}
+    \field{volume}{3}
+    \field{year}{2000}
+  \endentry
+
+  \entry{ekstrand2002bandwidth}{inproceedings}{}
+    \name{author}{1}{}{%
+      {{hash=EP}{%
+         family={Ekstrand},
+         familyi={E\bibinitperiod},
+         given={Per},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {Citeseer}%
+    }
+    \strng{namehash}{EP1}
+    \strng{fullhash}{EP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{in Proceedings of the 1st IEEE Benelux Workshop on Model
+  Based Processing and Coding of Audio (MPCA’02)}
+    \field{title}{Bandwidth extension of audio signals by spectral band
+  replication}
+    \field{year}{2002}
+  \endentry
+
+  \entry{freeman2002example}{article}{}
+    \name{author}{3}{}{%
+      {{hash=FWT}{%
+         family={Freeman},
+         familyi={F\bibinitperiod},
+         given={William\bibnamedelima T},
+         giveni={W\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=JTR}{%
+         family={Jones},
+         familyi={J\bibinitperiod},
+         given={Thouis\bibnamedelima R},
+         giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=PEC}{%
+         family={Pasztor},
+         familyi={P\bibinitperiod},
+         given={Egon\bibnamedelima C},
+         giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{FWTJTRPEC1}
+    \strng{fullhash}{FWTJTRPEC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{number}{2}
+    \field{pages}{56\bibrangedash 65}
+    \field{title}{Example-based super-resolution}
+    \field{volume}{22}
+    \field{journaltitle}{IEEE Computer graphics and Applications}
+    \field{year}{2002}
+  \endentry
+
+  \entry{jax2003artificial}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=JP}{%
+         family={Jax},
+         familyi={J\bibinitperiod},
+         given={Peter},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=VP}{%
+         family={Vary},
+         familyi={V\bibinitperiod},
+         given={Peter},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{JPVP1}
+    \strng{fullhash}{JPVP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{2003 IEEE International Conference on Acoustics, Speech,
+  and Signal Processing, 2003. Proceedings.(ICASSP'03).}
+    \field{pages}{I\bibrangedash I}
+    \field{title}{Artificial bandwidth extension of speech signals using MMSE
+  estimation based on a hidden Markov model}
+    \field{volume}{1}
+    \field{year}{2003}
+  \endentry
+
+  \entry{morris2004and}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=MAC}{%
+         family={Morris},
+         familyi={M\bibinitperiod},
+         given={Andrew\bibnamedelima Cameron},
+         giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=MV}{%
+         family={Maier},
+         familyi={M\bibinitperiod},
+         given={Viktoria},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=GP}{%
+         family={Green},
+         familyi={G\bibinitperiod},
+         given={Phil},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MACMVGP1}
+    \strng{fullhash}{MACMVGP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{Eighth International Conference on Spoken Language
+  Processing}
+    \field{title}{From WER and RIL to MER and WIL: improved evaluation measures
+  for connected speech recognition}
+    \field{year}{2004}
+  \endentry
+
+  \entry{avanzini2005fundamentals}{book}{}
+    \name{author}{2}{}{%
+      {{hash=AF}{%
+         family={Avanzini},
+         familyi={A\bibinitperiod},
+         given={Federico},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=DPG}{%
+         family={De\bibnamedelima Poli},
+         familyi={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+         given={Giovanni},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Creative Commons}%
+    }
+    \strng{namehash}{AFDPG1}
+    \strng{fullhash}{AFDPG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{title}{Fundamentals of digital audio processing}
+    \field{year}{2005}
+  \endentry
+
+  \entry{proakis2006dimitris}{book}{}
+    \name{author}{1}{}{%
+      {{hash=PJG}{%
+         family={Proakis},
+         familyi={P\bibinitperiod},
+         given={John\bibnamedelima G},
+         giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Prentice Hall, New Jersey1996}%
+    }
+    \strng{namehash}{PJG1}
+    \strng{fullhash}{PJG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{title}{Dimitris. G, Manolakis - Digital Signal Processing}
+    \field{year}{2006}
+  \endentry
+
+  \entry{song2009study}{article}{}
+    \name{author}{2}{}{%
+      {{hash=SGB}{%
+         family={Song},
+         familyi={S\bibinitperiod},
+         given={Geun-Bae},
+         giveni={G\bibinithyphendelim B\bibinitperiod},
+      }}%
+      {{hash=MP}{%
+         family={Martynovich},
+         familyi={M\bibinitperiod},
+         given={Pavel},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{SGBMP1}
+    \strng{fullhash}{SGBMP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{number}{10}
+    \field{pages}{2036\bibrangedash 2044}
+    \field{title}{A study of HMM-based bandwidth extension of speech signals}
+    \field{volume}{89}
+    \field{journaltitle}{Signal Processing}
+    \field{year}{2009}
+  \endentry
+
+  \entry{steidl2009automatic}{book}{}
+    \name{author}{1}{}{%
+      {{hash=SS}{%
+         family={Steidl},
+         familyi={S\bibinitperiod},
+         given={Stefan},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Logos-Verlag}%
+    }
+    \strng{namehash}{SS1}
+    \strng{fullhash}{SS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{title}{Automatic classification of emotion related user states in
+  spontaneous children's speech}
+    \field{year}{2009}
+  \endentry
+
+  \entry{pulakka2011speech}{inproceedings}{}
+    \name{author}{5}{}{%
+      {{hash=PH}{%
+         family={Pulakka},
+         familyi={P\bibinitperiod},
+         given={Hannu},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=RU}{%
+         family={Remes},
+         familyi={R\bibinitperiod},
+         given={Ulpu},
+         giveni={U\bibinitperiod},
+      }}%
+      {{hash=PK}{%
+         family={Palom{\"a}ki},
+         familyi={P\bibinitperiod},
+         given={Kalle},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=KM}{%
+         family={Kurimo},
+         familyi={K\bibinitperiod},
+         given={Mikko},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=AP}{%
+         family={Alku},
+         familyi={A\bibinitperiod},
+         given={Paavo},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{PH+1}
+    \strng{fullhash}{PHRUPKKMAP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{2011 IEEE International Conference on Acoustics, Speech
+  and Signal Processing (ICASSP)}
+    \field{pages}{5100\bibrangedash 5103}
+    \field{title}{Speech bandwidth extension using gaussian mixture model-based
+  estimation of the highband mel spectrum}
+    \field{year}{2011}
+  \endentry
+
+  \entry{krizhevsky2012imagenet}{article}{}
+    \name{author}{3}{}{%
+      {{hash=KA}{%
+         family={Krizhevsky},
+         familyi={K\bibinitperiod},
+         given={Alex},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SI}{%
+         family={Sutskever},
+         familyi={S\bibinitperiod},
+         given={Ilya},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=HGE}{%
+         family={Hinton},
+         familyi={H\bibinitperiod},
+         given={Geoffrey\bibnamedelima E},
+         giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KASIHGE1}
+    \strng{fullhash}{KASIHGE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{pages}{1097\bibrangedash 1105}
+    \field{title}{Imagenet classification with deep convolutional neural
+  networks}
+    \field{volume}{25}
+    \field{journaltitle}{Advances in neural information processing systems}
+    \field{year}{2012}
+  \endentry
+
+  \entry{hady2013semi}{incollection}{}
+    \name{author}{2}{}{%
+      {{hash=HMFA}{%
+         family={Hady},
+         familyi={H\bibinitperiod},
+         given={Mohamed Farouk\bibnamedelima Abdel},
+         giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim
+  A\bibinitperiod},
+      }}%
+      {{hash=SF}{%
+         family={Schwenker},
+         familyi={S\bibinitperiod},
+         given={Friedhelm},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{HMFASF1}
+    \strng{fullhash}{HMFASF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{Handbook on Neural Information Processing}
+    \field{pages}{215\bibrangedash 239}
+    \field{title}{Semi-supervised learning}
+    \field{year}{2013}
+  \endentry
+
+  \entry{han2013comparison}{inproceedings}{}
+    \name{author}{1}{}{%
+      {{hash=HD}{%
+         family={Han},
+         familyi={H\bibinitperiod},
+         given={Dianyuan},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {Atlantis Press}%
+    }
+    \strng{namehash}{HD1}
+    \strng{fullhash}{HD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{Proceedings of the 2nd international conference on
+  computer science and electronics engineering}
+    \field{pages}{1556\bibrangedash 1559}
+    \field{title}{Comparison of commonly used image interpolation methods}
+    \field{year}{2013}
+  \endentry
+
+  \entry{chung2014empirical}{article}{}
+    \name{author}{4}{}{%
+      {{hash=CJ}{%
+         family={Chung},
+         familyi={C\bibinitperiod},
+         given={Junyoung},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=GC}{%
+         family={Gulcehre},
+         familyi={G\bibinitperiod},
+         given={Caglar},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=CK}{%
+         family={Cho},
+         familyi={C\bibinitperiod},
+         given={KyungHyun},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=BY}{%
+         family={Bengio},
+         familyi={B\bibinitperiod},
+         given={Yoshua},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CJ+1}
+    \strng{fullhash}{CJGCCKBY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{title}{Empirical evaluation of gated recurrent neural networks on
+  sequence modeling}
+    \field{journaltitle}{arXiv preprint arXiv:1412.3555}
+    \field{year}{2014}
+  \endentry
+
+  \entry{hannun2014deep}{article}{}
+    \true{moreauthor}
+    \true{morelabelname}
+    \name{author}{10}{}{%
+      {{hash=HA}{%
+         family={Hannun},
+         familyi={H\bibinitperiod},
+         given={Awni},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=CC}{%
+         family={Case},
+         familyi={C\bibinitperiod},
+         given={Carl},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=CJ}{%
+         family={Casper},
+         familyi={C\bibinitperiod},
+         given={Jared},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=CB}{%
+         family={Catanzaro},
+         familyi={C\bibinitperiod},
+         given={Bryan},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=DG}{%
+         family={Diamos},
+         familyi={D\bibinitperiod},
+         given={Greg},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=EE}{%
+         family={Elsen},
+         familyi={E\bibinitperiod},
+         given={Erich},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=PR}{%
+         family={Prenger},
+         familyi={P\bibinitperiod},
+         given={Ryan},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Satheesh},
+         familyi={S\bibinitperiod},
+         given={Sanjeev},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Sengupta},
+         familyi={S\bibinitperiod},
+         given={Shubho},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=CA}{%
+         family={Coates},
+         familyi={C\bibinitperiod},
+         given={Adam},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HA+1}
+    \strng{fullhash}{HACCCJCBDGEEPRSSSSCA+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{title}{Deep speech: Scaling up end-to-end speech recognition}
+    \field{journaltitle}{arXiv preprint arXiv:1412.5567}
+    \field{year}{2014}
+  \endentry
+
+  \entry{kingma2014adam}{article}{}
+    \name{author}{2}{}{%
+      {{hash=KDP}{%
+         family={Kingma},
+         familyi={K\bibinitperiod},
+         given={Diederik\bibnamedelima P},
+         giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Ba},
+         familyi={B\bibinitperiod},
+         given={Jimmy},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KDPBJ1}
+    \strng{fullhash}{KDPBJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{title}{Adam: A method for stochastic optimization}
+    \field{journaltitle}{arXiv preprint arXiv:1412.6980}
+    \field{year}{2014}
+  \endentry
+
+  \entry{srivastava2014dropout}{article}{}
+    \name{author}{5}{}{%
+      {{hash=SN}{%
+         family={Srivastava},
+         familyi={S\bibinitperiod},
+         given={Nitish},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=HG}{%
+         family={Hinton},
+         familyi={H\bibinitperiod},
+         given={Geoffrey},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=KA}{%
+         family={Krizhevsky},
+         familyi={K\bibinitperiod},
+         given={Alex},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SI}{%
+         family={Sutskever},
+         familyi={S\bibinitperiod},
+         given={Ilya},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Salakhutdinov},
+         familyi={S\bibinitperiod},
+         given={Ruslan},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {JMLR. org}%
+    }
+    \strng{namehash}{SN+1}
+    \strng{fullhash}{SNHGKASISR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{number}{1}
+    \field{pages}{1929\bibrangedash 1958}
+    \field{title}{Dropout: a simple way to prevent neural networks from
+  overfitting}
+    \field{volume}{15}
+    \field{journaltitle}{The journal of machine learning research}
+    \field{year}{2014}
+  \endentry
+
+  \entry{zeiler2014visualizing}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=ZMD}{%
+         family={Zeiler},
+         familyi={Z\bibinitperiod},
+         given={Matthew\bibnamedelima D},
+         giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=FR}{%
+         family={Fergus},
+         familyi={F\bibinitperiod},
+         given={Rob},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{ZMDFR1}
+    \strng{fullhash}{ZMDFR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{European conference on computer vision}
+    \field{pages}{818\bibrangedash 833}
+    \field{title}{Visualizing and understanding convolutional networks}
+    \field{year}{2014}
+  \endentry
+
+  \entry{dozat2016incorporating}{inproceedings}{}
+    \name{author}{1}{}{%
+      {{hash=DT}{%
+         family={Dozat},
+         familyi={D\bibinitperiod},
+         given={Timothy},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DT1}
+    \strng{fullhash}{DT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{title}{Incorporating Nesterov Momentum into Adam}
+    \field{year}{2015}
+  \endentry
+
+  \entry{li2015dnn}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=LK}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Kehuang},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=HZ}{%
+         family={Huang},
+         familyi={H\bibinitperiod},
+         given={Zhen},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=XY}{%
+         family={Xu},
+         familyi={X\bibinitperiod},
+         given={Yong},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=LCH}{%
+         family={Lee},
+         familyi={L\bibinitperiod},
+         given={Chin-Hui},
+         giveni={C\bibinithyphendelim H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LK+1}
+    \strng{fullhash}{LKHZXYLCH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{Sixteenth Annual Conference of the International Speech
+  Communication Association}
+    \field{title}{DNN-based speech bandwidth expansion and its application to
+  adding high-frequency missing features for automatic speech recognition of
+  narrowband speech}
+    \field{year}{2015}
+  \endentry
+
+  \entry{ILSVRC15}{article}{}
+    \name{author}{12}{}{%
+      {{hash=RO}{%
+         family={Russakovsky},
+         familyi={R\bibinitperiod},
+         given={Olga},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=DJ}{%
+         family={Deng},
+         familyi={D\bibinitperiod},
+         given={Jia},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SH}{%
+         family={Su},
+         familyi={S\bibinitperiod},
+         given={Hao},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=KJ}{%
+         family={Krause},
+         familyi={K\bibinitperiod},
+         given={Jonathan},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Satheesh},
+         familyi={S\bibinitperiod},
+         given={Sanjeev},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=MS}{%
+         family={Ma},
+         familyi={M\bibinitperiod},
+         given={Sean},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=HZ}{%
+         family={Huang},
+         familyi={H\bibinitperiod},
+         given={Zhiheng},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=KA}{%
+         family={Karpathy},
+         familyi={K\bibinitperiod},
+         given={Andrej},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=KA}{%
+         family={Khosla},
+         familyi={K\bibinitperiod},
+         given={Aditya},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Bernstein},
+         familyi={B\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BAC}{%
+         family={Berg},
+         familyi={B\bibinitperiod},
+         given={Alexander\bibnamedelima C.},
+         giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=FFL}{%
+         family={Fei-Fei},
+         familyi={F\bibinithyphendelim F\bibinitperiod},
+         given={Li},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RO+1}
+    \strng{fullhash}{RODJSHKJSSMSHZKAKABMBACFFL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1007/s11263-015-0816-y
+    \endverb
+    \field{number}{3}
+    \field{pages}{211\bibrangedash 252}
+    \field{title}{{ImageNet Large Scale Visual Recognition Challenge}}
+    \field{volume}{115}
+    \field{journaltitle}{International Journal of Computer Vision (IJCV)}
+    \field{year}{2015}
+  \endentry
+
+  \entry{wu2015deep}{article}{}
+    \name{author}{5}{}{%
+      {{hash=WR}{%
+         family={Wu},
+         familyi={W\bibinitperiod},
+         given={Ren},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=YS}{%
+         family={Yan},
+         familyi={Y\bibinitperiod},
+         given={Shengen},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SY}{%
+         family={Shan},
+         familyi={S\bibinitperiod},
+         given={Yi},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=DQ}{%
+         family={Dang},
+         familyi={D\bibinitperiod},
+         given={Qingqing},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=SG}{%
+         family={Sun},
+         familyi={S\bibinitperiod},
+         given={Gang},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WR+1}
+    \strng{fullhash}{WRYSSYDQSG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{number}{8}
+    \field{title}{Deep image: Scaling up image recognition}
+    \field{volume}{7}
+    \field{journaltitle}{arXiv preprint arXiv:1501.02876}
+    \field{year}{2015}
+  \endentry
+
+  \entry{yu2015multi}{article}{}
+    \name{author}{2}{}{%
+      {{hash=YF}{%
+         family={Yu},
+         familyi={Y\bibinitperiod},
+         given={Fisher},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=KV}{%
+         family={Koltun},
+         familyi={K\bibinitperiod},
+         given={Vladlen},
+         giveni={V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{YFKV1}
+    \strng{fullhash}{YFKV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{title}{Multi-scale context aggregation by dilated convolutions}
+    \field{journaltitle}{arXiv preprint arXiv:1511.07122}
+    \field{year}{2015}
+  \endentry
+
+  \entry{aytar2016soundnet}{article}{}
+    \name{author}{3}{}{%
+      {{hash=AY}{%
+         family={Aytar},
+         familyi={A\bibinitperiod},
+         given={Yusuf},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=VC}{%
+         family={Vondrick},
+         familyi={V\bibinitperiod},
+         given={Carl},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=TA}{%
+         family={Torralba},
+         familyi={T\bibinitperiod},
+         given={Antonio},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AYVCTA1}
+    \strng{fullhash}{AYVCTA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{pages}{892\bibrangedash 900}
+    \field{title}{Soundnet: Learning sound representations from unlabeled
+  video}
+    \field{volume}{29}
+    \field{journaltitle}{Advances in neural information processing systems}
+    \field{year}{2016}
+  \endentry
+
+  \entry{dumoulin2016learned}{article}{}
+    \name{author}{3}{}{%
+      {{hash=DV}{%
+         family={Dumoulin},
+         familyi={D\bibinitperiod},
+         given={Vincent},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Shlens},
+         familyi={S\bibinitperiod},
+         given={Jonathon},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=KM}{%
+         family={Kudlur},
+         familyi={K\bibinitperiod},
+         given={Manjunath},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DVSJKM1}
+    \strng{fullhash}{DVSJKM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{title}{A learned representation for artistic style}
+    \field{journaltitle}{arXiv preprint arXiv:1610.07629}
+    \field{year}{2016}
+  \endentry
+
+  \entry{goodfellow2016deep}{book}{}
+    \name{author}{4}{}{%
+      {{hash=GI}{%
+         family={Goodfellow},
+         familyi={G\bibinitperiod},
+         given={Ian},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=BY}{%
+         family={Bengio},
+         familyi={B\bibinitperiod},
+         given={Yoshua},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=CA}{%
+         family={Courville},
+         familyi={C\bibinitperiod},
+         given={Aaron},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BY}{%
+         family={Bengio},
+         familyi={B\bibinitperiod},
+         given={Yoshua},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {MIT press Cambridge}%
+    }
+    \strng{namehash}{GI+1}
+    \strng{fullhash}{GIBYCABY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{number}{2}
+    \field{title}{Deep learning}
+    \field{volume}{1}
+    \field{year}{2016}
+  \endentry
+
+  \entry{pathak2016context}{inproceedings}{}
+    \name{author}{5}{}{%
+      {{hash=PD}{%
+         family={Pathak},
+         familyi={P\bibinitperiod},
+         given={Deepak},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=KP}{%
+         family={Krahenbuhl},
+         familyi={K\bibinitperiod},
+         given={Philipp},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=DJ}{%
+         family={Donahue},
+         familyi={D\bibinitperiod},
+         given={Jeff},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=DT}{%
+         family={Darrell},
+         familyi={D\bibinitperiod},
+         given={Trevor},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=EAA}{%
+         family={Efros},
+         familyi={E\bibinitperiod},
+         given={Alexei\bibnamedelima A},
+         giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PD+1}
+    \strng{fullhash}{PDKPDJDTEAA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{Proceedings of the IEEE conference on computer vision and
+  pattern recognition}
+    \field{pages}{2536\bibrangedash 2544}
+    \field{title}{Context encoders: Feature learning by inpainting}
+    \field{year}{2016}
+  \endentry
+
+  \entry{shi2016real}{inproceedings}{}
+    \name{author}{8}{}{%
+      {{hash=SW}{%
+         family={Shi},
+         familyi={S\bibinitperiod},
+         given={Wenzhe},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=CJ}{%
+         family={Caballero},
+         familyi={C\bibinitperiod},
+         given={Jose},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=HF}{%
+         family={Husz{\'a}r},
+         familyi={H\bibinitperiod},
+         given={Ferenc},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=TJ}{%
+         family={Totz},
+         familyi={T\bibinitperiod},
+         given={Johannes},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=AAP}{%
+         family={Aitken},
+         familyi={A\bibinitperiod},
+         given={Andrew\bibnamedelima P},
+         giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=BR}{%
+         family={Bishop},
+         familyi={B\bibinitperiod},
+         given={Rob},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=RD}{%
+         family={Rueckert},
+         familyi={R\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=WZ}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Zehan},
+         giveni={Z\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SW+1}
+    \strng{fullhash}{SWCJHFTJAAPBRRDWZ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{Proceedings of the IEEE conference on computer vision and
+  pattern recognition}
+    \field{pages}{1874\bibrangedash 1883}
+    \field{title}{Real-time single image and video super-resolution using an
+  efficient sub-pixel convolutional neural network}
+    \field{year}{2016}
+  \endentry
+
+  \entry{zhang2016colorful}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=ZR}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Richard},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=IP}{%
+         family={Isola},
+         familyi={I\bibinitperiod},
+         given={Phillip},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=EAA}{%
+         family={Efros},
+         familyi={E\bibinitperiod},
+         given={Alexei\bibnamedelima A},
+         giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{ZRIPEAA1}
+    \strng{fullhash}{ZRIPEAA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{European conference on computer vision}
+    \field{pages}{649\bibrangedash 666}
+    \field{title}{Colorful image colorization}
+    \field{year}{2016}
+  \endentry
+
+  \entry{kim2017dynamic}{article}{}
+    \name{author}{3}{}{%
+      {{hash=KT}{%
+         family={Kim},
+         familyi={K\bibinitperiod},
+         given={Taesup},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=SI}{%
+         family={Song},
+         familyi={S\bibinitperiod},
+         given={Inchul},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=BY}{%
+         family={Bengio},
+         familyi={B\bibinitperiod},
+         given={Yoshua},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KTSIBY1}
+    \strng{fullhash}{KTSIBY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{title}{Dynamic layer normalization for adaptive neural acoustic
+  modeling in speech recognition}
+    \field{journaltitle}{arXiv preprint arXiv:1707.06065}
+    \field{year}{2017}
+  \endentry
+
+  \entry{kuleshov2017audio}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=KV}{%
+         family={Kuleshov},
+         familyi={K\bibinitperiod},
+         given={Volodymyr},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=ESZ}{%
+         family={Enam},
+         familyi={E\bibinitperiod},
+         given={S\bibnamedelima Zayd},
+         giveni={S\bibinitperiod\bibinitdelim Z\bibinitperiod},
+      }}%
+      {{hash=ES}{%
+         family={Ermon},
+         familyi={E\bibinitperiod},
+         given={Stefano},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KVESZES1}
+    \strng{fullhash}{KVESZES1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{ICLR (Workshop Track)}
+    \field{title}{Audio super-resolution using neural nets}
+    \field{year}{2017}
+  \endentry
+
+  \entry{yeh2017semantic}{inproceedings}{}
+    \name{author}{6}{}{%
+      {{hash=YRA}{%
+         family={Yeh},
+         familyi={Y\bibinitperiod},
+         given={Raymond\bibnamedelima A},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=CC}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Chen},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=YLT}{%
+         family={Yian\bibnamedelima Lim},
+         familyi={Y\bibinitperiod\bibinitdelim L\bibinitperiod},
+         given={Teck},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=SAG}{%
+         family={Schwing},
+         familyi={S\bibinitperiod},
+         given={Alexander\bibnamedelima G},
+         giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=HJM}{%
+         family={Hasegawa-Johnson},
+         familyi={H\bibinithyphendelim J\bibinitperiod},
+         given={Mark},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=DMN}{%
+         family={Do},
+         familyi={D\bibinitperiod},
+         given={Minh\bibnamedelima N},
+         giveni={M\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{YRA+1}
+    \strng{fullhash}{YRACCYLTSAGHJMDMN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{Proceedings of the IEEE conference on computer vision and
+  pattern recognition}
+    \field{pages}{5485\bibrangedash 5493}
+    \field{title}{Semantic image inpainting with deep generative models}
+    \field{year}{2017}
+  \endentry
+
+  \entry{hu2018squeeze}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=HJ}{%
+         family={Hu},
+         familyi={H\bibinitperiod},
+         given={Jie},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SL}{%
+         family={Shen},
+         familyi={S\bibinitperiod},
+         given={Li},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=SG}{%
+         family={Sun},
+         familyi={S\bibinitperiod},
+         given={Gang},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HJSLSG1}
+    \strng{fullhash}{HJSLSG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{Proceedings of the IEEE conference on computer vision and
+  pattern recognition}
+    \field{pages}{7132\bibrangedash 7141}
+    \field{title}{Squeeze-and-excitation networks}
+    \field{year}{2018}
+  \endentry
+
+  \entry{lim2018time}{inproceedings}{}
+    \name{author}{5}{}{%
+      {{hash=LTY}{%
+         family={Lim},
+         familyi={L\bibinitperiod},
+         given={Teck\bibnamedelima Yian},
+         giveni={T\bibinitperiod\bibinitdelim Y\bibinitperiod},
+      }}%
+      {{hash=YRA}{%
+         family={Yeh},
+         familyi={Y\bibinitperiod},
+         given={Raymond\bibnamedelima A},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=XY}{%
+         family={Xu},
+         familyi={X\bibinitperiod},
+         given={Yijia},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=DMN}{%
+         family={Do},
+         familyi={D\bibinitperiod},
+         given={Minh\bibnamedelima N},
+         giveni={M\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=HJM}{%
+         family={Hasegawa-Johnson},
+         familyi={H\bibinithyphendelim J\bibinitperiod},
+         given={Mark},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{LTY+1}
+    \strng{fullhash}{LTYYRAXYDMNHJM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{2018 IEEE International Conference on Acoustics, Speech
+  and Signal Processing (ICASSP)}
+    \field{pages}{646\bibrangedash 650}
+    \field{title}{Time-frequency networks for audio super-resolution}
+    \field{year}{2018}
+  \endentry
+
+  \entry{mescheder2018training}{article}{}
+    \name{author}{3}{}{%
+      {{hash=ML}{%
+         family={Mescheder},
+         familyi={M\bibinitperiod},
+         given={Lars},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=GA}{%
+         family={Geiger},
+         familyi={G\bibinitperiod},
+         given={Andreas},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=NS}{%
+         family={Nowozin},
+         familyi={N\bibinitperiod},
+         given={Sebastian},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MLGANS1}
+    \strng{fullhash}{MLGANS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{title}{Which training methods for GANs do actually converge?}
+    \field{journaltitle}{arXiv preprint arXiv:1801.04406}
+    \field{year}{2018}
+  \endentry
+
+  \entry{perez2018film}{inproceedings}{}
+    \name{author}{5}{}{%
+      {{hash=PE}{%
+         family={Perez},
+         familyi={P\bibinitperiod},
+         given={Ethan},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=SF}{%
+         family={Strub},
+         familyi={S\bibinitperiod},
+         given={Florian},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=DVH}{%
+         family={De\bibnamedelima Vries},
+         familyi={D\bibinitperiod\bibinitdelim V\bibinitperiod},
+         given={Harm},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=DV}{%
+         family={Dumoulin},
+         familyi={D\bibinitperiod},
+         given={Vincent},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=CA}{%
+         family={Courville},
+         familyi={C\bibinitperiod},
+         given={Aaron},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PE+1}
+    \strng{fullhash}{PESFDVHDVCA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{Proceedings of the AAAI Conference on Artificial
+  Intelligence}
+    \field{number}{1}
+    \field{title}{Film: Visual reasoning with a general conditioning layer}
+    \field{volume}{32}
+    \field{year}{2018}
+  \endentry
+
+  \entry{wang2018speech}{inproceedings}{}
+    \name{author}{8}{}{%
+      {{hash=WM}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Mu},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=WZ}{%
+         family={Wu},
+         familyi={W\bibinitperiod},
+         given={Zhiyong},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=KS}{%
+         family={Kang},
+         familyi={K\bibinitperiod},
+         given={Shiyin},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=WX}{%
+         family={Wu},
+         familyi={W\bibinitperiod},
+         given={Xixin},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=JJ}{%
+         family={Jia},
+         familyi={J\bibinitperiod},
+         given={Jia},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SD}{%
+         family={Su},
+         familyi={S\bibinitperiod},
+         given={Dan},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=YD}{%
+         family={Yu},
+         familyi={Y\bibinitperiod},
+         given={Dong},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=MH}{%
+         family={Meng},
+         familyi={M\bibinitperiod},
+         given={Helen},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{WM+1}
+    \strng{fullhash}{WMWZKSWXJJSDYDMH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{2018 11th International Symposium on Chinese Spoken
+  Language Processing (ISCSLP)}
+    \field{pages}{260\bibrangedash 264}
+    \field{title}{Speech super-resolution using parallel wavenet}
+    \field{year}{2018}
+  \endentry
+
+  \entry{birnbaum2019temporal}{inproceedings}{}
+    \name{author}{5}{}{%
+      {{hash=BS}{%
+         family={Birnbaum},
+         familyi={B\bibinitperiod},
+         given={Sawyer},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=KV}{%
+         family={Kuleshov},
+         familyi={K\bibinitperiod},
+         given={Volodymyr},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=EZ}{%
+         family={Enam},
+         familyi={E\bibinitperiod},
+         given={Zayd},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=KPWW}{%
+         family={Koh},
+         familyi={K\bibinitperiod},
+         given={Pang Wei\bibnamedelima W},
+         giveni={P\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim
+  W\bibinitperiod},
+      }}%
+      {{hash=ES}{%
+         family={Ermon},
+         familyi={E\bibinitperiod},
+         given={Stefano},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BS+1}
+    \strng{fullhash}{BSKVEZKPWWES1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{Advances in Neural Information Processing Systems}
+    \field{pages}{10287\bibrangedash 10298}
+    \field{title}{Temporal FiLM: Capturing Long-Range Sequence Dependencies
+  with Feature-Wise Modulations.}
+    \field{year}{2019}
+  \endentry
+
+  \entry{christensen2019sound}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=CMG}{%
+         family={Christensen},
+         familyi={C\bibinitperiod},
+         given={Mads\bibnamedelima G},
+         giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{CMG1}
+    \strng{fullhash}{CMG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{Introduction to Audio Processing}
+    \field{pages}{1\bibrangedash 17}
+    \field{title}{What Is Sound?}
+    \field{year}{2019}
+  \endentry
+
+  \entry{eskimez2019speech}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=ESE}{%
+         family={Eskimez},
+         familyi={E\bibinitperiod},
+         given={Sefik\bibnamedelima Emre},
+         giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=KK}{%
+         family={Koishida},
+         familyi={K\bibinitperiod},
+         given={Kazuhito},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{ESEKK1}
+    \strng{fullhash}{ESEKK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{ICASSP 2019-2019 IEEE International Conference on
+  Acoustics, Speech and Signal Processing (ICASSP)}
+    \field{pages}{3717\bibrangedash 3721}
+    \field{title}{Speech super resolution generative adversarial network}
+    \field{year}{2019}
+  \endentry
+
+  \entry{kamath2019automatic}{incollection}{}
+    \name{author}{3}{}{%
+      {{hash=KU}{%
+         family={Kamath},
+         familyi={K\bibinitperiod},
+         given={Uday},
+         giveni={U\bibinitperiod},
+      }}%
+      {{hash=LJ}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=WJ}{%
+         family={Whitaker},
+         familyi={W\bibinitperiod},
+         given={James},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{KULJWJ1}
+    \strng{fullhash}{KULJWJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{booktitle}{Deep Learning for NLP and Speech Recognition}
+    \field{pages}{369\bibrangedash 404}
+    \field{title}{Automatic Speech Recognition}
+    \field{year}{2019}
+  \endentry
+
+  \entry{rai2019editor}{article}{}
+    \name{author}{3}{}{%
+      {{hash=RA}{%
+         family={Rai},
+         familyi={R\bibinitperiod},
+         given={Arun},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=CP}{%
+         family={Constantinides},
+         familyi={C\bibinitperiod},
+         given={Panos},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Sarker},
+         familyi={S\bibinitperiod},
+         given={Saonee},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{2}{%
+      {Society for Information Management}%
+      {The Management Information Systems~…}%
+    }
+    \strng{namehash}{RACPSS1}
+    \strng{fullhash}{RACPSS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{number}{1}
+    \field{pages}{iii\bibrangedash x}
+    \field{title}{Editor's comments: next-generation digital platforms: toward
+  human--AI hybrids}
+    \field{volume}{43}
+    \field{journaltitle}{Mis Quarterly}
+    \field{year}{2019}
+  \endentry
+
+  \entry{yamagishi2019cstr}{article}{}
+    \true{moreauthor}
+    \true{morelabelname}
+    \name{author}{3}{}{%
+      {{hash=YJ}{%
+         family={Yamagishi},
+         familyi={Y\bibinitperiod},
+         given={Junichi},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=VC}{%
+         family={Veaux},
+         familyi={V\bibinitperiod},
+         given={Christophe},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=MK}{%
+         family={MacDonald},
+         familyi={M\bibinitperiod},
+         given={Kirsten},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {University of Edinburgh. The Centre for Speech Technology Research
+  (CSTR)}%
+    }
+    \strng{namehash}{YJVCMK+1}
+    \strng{fullhash}{YJVCMK+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{title}{CSTR VCTK Corpus: English Multi-speaker Corpus for CSTR Voice
+  Cloning Toolkit (version 0.92)}
+    \field{year}{2019}
+  \endentry
+\enddatalist
+\endinput

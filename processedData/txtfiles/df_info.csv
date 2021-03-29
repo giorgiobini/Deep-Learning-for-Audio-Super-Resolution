@@ -1,0 +1,109 @@
+AGE,GENDER,ACCENTS,REGION,ID
+23,F,English,Southern England,225
+22,M,English,Surrey,226
+38,M,English,Cumbria,227
+22,F,English,Southern England,228
+23,F,English,Southern England,229
+22,F,English,Stockton-on-tees,230
+23,F,English,Southern England,231
+23,M,English,Southern England,232
+23,F,English,Staffordshire,233
+22,F,Scottish,West Dumfries,234
+23,F,English,Manchester,236
+22,M,Scottish,Fife,237
+22,F,NorthernIrish,Belfast,238
+22,F,English,SW England,239
+21,F,English,Southern England,240
+21,M,Scottish,Perth,241
+22,M,English,London,243
+22,F,English,Manchester,244
+25,M,Irish,Dublin,245
+22,M,Scottish,Selkirk,246
+22,M,Scottish,Argyll,247
+23,F,Indian,,248
+22,F,Scottish,Aberdeen,249
+22,F,English,SE England,250
+26,M,Indian,,251
+22,M,Scottish,Edinburgh,252
+22,F,Welsh,Cardiff,253
+21,M,English,Surrey,254
+19,M,Scottish,Galloway,255
+24,M,English,Birmingham,256
+24,F,English,Southern England,257
+22,M,English,Southern England,258
+23,M,English,Nottingham,259
+21,M,Scottish,Orkney,260
+26,F,NorthernIrish,Belfast,261
+23,F,Scottish,Edinburgh,262
+22,M,Scottish,Aberdeen,263
+23,F,Scottish,West Lothian,264
+23,F,Scottish,Ross,265
+22,F,Irish,Athlone,266
+23,F,English,Yorkshire,267
+23,F,English,Southern England,268
+20,F,English,Newcastle,269
+21,M,English,Yorkshire,270
+19,M,Scottish,Fife,271
+23,M,Scottish,Edinburgh,272
+23,M,English,Suffolk,273
+22,M,English,Essex,274
+23,M,Scottish,Midlothian,275
+24,F,English,Oxford,276
+23,F,English,NE England,277
+22,M,English,Cheshire,278
+23,M,English,Leicester,279
+29,M,Scottish,Edinburgh,281
+23,F,English,Newcastle,282
+24,F,Irish,Cork,283
+20,M,Scottish,Fife,284
+21,M,Scottish,Edinburgh,285
+23,M,English,Newcastle,286
+23,M,English,York,287
+22,F,Irish,Dublin,288
+23,M,NorthernIrish,Belfast,292
+22,F,NorthernIrish,Belfast,293
+33,F,American,San Francisco,294
+23,F,Irish,Dublin,295
+20,F,American,New York,297
+19,M,Irish,Tipperary,298
+25,F,American,California,299
+23,F,American,California,300
+23,F,American,North Carolina,301
+20,M,Canadian,Montreal,302
+24,F,Canadian,Toronto,303
+22,M,NorthernIrish,Belfast,304
+19,F,American,Philadelphia,305
+21,F,American,New York,306
+23,F,Canadian,Ontario,307
+18,F,American,Alabama,308
+21,F,American,Tennessee,310
+21,M,American,Iowa,311
+19,F,Canadian,Hamilton,312
+24,F,Irish,County Down,313
+26,F,SouthAfrican,Cape Town,314
+18,M,American,New England,315
+20,M,Canadian,Alberta,316
+23,F,Canadian,Hamilton,317
+32,F,American,Napa,318
+19,F,SouthAfrican,Pretoria,323
+26,M,Australian,English Sydney,326
+23,F,American,,329
+26,F,American,,330
+19,F,American,Indiana,333
+18,M,American,Chicago,334
+25,F,NewZealand,English,335
+18,F,SouthAfrican,Johannesburg,336
+21,F,American,Pennsylvania,339
+18,F,Irish,Dublin,340
+26,F,American,Ohio,341
+27,F,Canadian,Alberta,343
+22,M,American,Florida,345
+26,M,SouthAfrican,Johannesburg,347
+21,F,NorthernIrish,Derry,351
+19,M,American,New Jersey,360
+19,F,American,New Jersey,361
+29,F,American,,362
+22,M,Canadian,Toronto,363
+23,M,Irish,Donegal,364
+28,M,Australian,English,374
+22,M,Indian,,376
