@@ -19,6 +19,6 @@ As for the data, we use the Voice Cloning Toolkit Corpus (VCTK) [dataset](https:
 Furthermore, we process audio data with one of the state-of-the-art open-source STT engines, i.e. Deep Speech (([github repo](https://github.com/mozilla/DeepSpeech))). 
 
 ### Documents
-You can read my [thesis](docs/thesis_latex/Bini_Giorgio_Tesi_LMDS_24032021.pdf) and look at my [presentation](docs/Presentation/Presentazione.pptx/Bini_Giorgio_Tesi_LMDS_24032021.pdf).
+You can read my [thesis](docs/thesis_latex/Bini_Giorgio_Tesi_LMDS_24032021.pdf) and look at my [presentation](docs/Presentation/Presentazione.pptx).
 
 ![plot](docs/Presentation/funny_img.png)
