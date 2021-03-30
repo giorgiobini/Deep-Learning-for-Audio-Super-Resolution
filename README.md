@@ -16,7 +16,7 @@ The main packages used in this work include Tensorflow (1.x), Scipy (1.2.1) and 
 
 As for the data, we use the Voice Cloning Toolkit Corpus (VCTK) [dataset](https://datashare.ed.ac.uk/handle/10283/3443). 
 
-Furthermore, we process audio data with one of the state-of-the-art open-source STT engines, i.e. Deep Speech (([github repo](https://github.com/mozilla/DeepSpeech))). 
+We processed audio data with one of the state-of-the-art open-source STT engines, i.e. Deep Speech ([github repo](https://github.com/mozilla/DeepSpeech)). 
 
 ### Documents
 You can read my [thesis](docs/thesis_latex/Bini_Giorgio_Tesi_LMDS_24032021.pdf) and look at my [presentation](docs/Presentation/Presentazione.pptx).
